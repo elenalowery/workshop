@@ -1,0 +1,2071 @@
+﻿ID,Sex,Region,Children,Est_Income,Car_Owner,Status,Paymethod,LocalBilltype,Customer_Segments,Trips_To_The_Website_Yr,Avg_Spend_Per_Store_Visit,Customer_Loyality_Code,Number_Of_Transactions_Current_Year,Response,Age_BIN
+1,F,2,1,38000,N,S,CC,Budget,High Income Families,46,206.08,3,12,Responded,1
+6,M,3,2,29616,N,M,CH,FreeLocal,Low Value and No Kids,15,45.5,2,15,Did Not Respond,3
+8,M,1,0,19732.8,N,M,CC,FreeLocal,High Income Families,9,22.44,3,12,Did Not Respond,3
+11,M,3,2,96.33,N,S,CC,Budget,High Income Families,12,32.88,1,13,Did Not Respond,4
+14,F,3,2,52004.8,N,M,CH,Budget,Low Value and No Kids,6,23.11,1,3,Responded,1
+17,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+18,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,1,13,Did Not Respond,5
+21,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,3,10,Did Not Respond,4
+22,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,2,5,Did Not Respond,3
+23,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,4,5,Did Not Respond,2
+24,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,2,9,Did Not Respond,2
+29,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,3,11,Responded,1
+35,F,1,0,78851.3,N,S,CC,FreeLocal,High Income Families,6,28.66,4,0,Did Not Respond,3
+36,F,2,1,17540.7,Y,S,Auto,Budget,Married No Kids,7,13.45,4,11,Responded,4
+37,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Responded,4
+38,F,3,2,28220.8,N,M,CC,FreeLocal,High Income Families,8,12.46,4,13,Responded,3
+40,F,1,0,28589.1,N,S,CC,FreeLocal,High Income Families,20,87.09,4,7,Responded,1
+42,F,3,2,5237.63,N,M,CC,Budget,High Income Families,16,56.64,2,7,Did Not Respond,3
+45,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+48,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,1,7,Responded,3
+52,F,3,2,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Did Not Respond,4
+53,F,2,1,57063,Y,M,CH,Budget,Low Value and No Kids,20,81.3,4,8,Did Not Respond,4
+54,F,3,2,84166.1,N,M,CC,Budget,High Income Families,3,11.74,2,2,Responded,4
+60,F,2,1,7737.94,N,S,CC,FreeLocal,High Income Families,12,50.84,4,6,Responded,3
+61,M,3,2,100020,N,S,CH,Budget,Low Value and No Kids,63,293.24,4,11,Did Not Respond,3
+62,F,3,2,45287.6,Y,M,CC,Budget,High Income Families,1,2.97,3,0,Did Not Respond,2
+63,F,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,1,6,Did Not Respond,2
+65,F,2,1,16326.7,N,S,CC,FreeLocal,High Income Families,0,1.34,1,0,Responded,3
+68,F,3,2,9559.78,N,S,CC,FreeLocal,High Income Families,16,59.59,3,9,Responded,4
+71,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,4,10,Did Not Respond,3
+73,F,3,2,83284.1,Y,M,Auto,FreeLocal,Married No Kids,7,9.04,4,13,Did Not Respond,2
+74,M,2,1,39229.1,N,M,CC,Budget,High Income Families,9,13.53,4,14,Did Not Respond,2
+75,F,1,0,68427.4,N,S,Auto,FreeLocal,Married No Kids,15,50.05,3,12,Did Not Respond,3
+77,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,4,5,Responded,3
+78,F,1,0,72642.6,N,M,CH,FreeLocal,Low Value and No Kids,8,20.34,4,9,Did Not Respond,2
+79,F,1,0,98716.3,N,S,CC,FreeLocal,High Income Families,9,13.92,4,10,Responded,4
+80,F,3,2,66182.7,Y,S,Auto,Budget,Married No Kids,12,47.17,2,6,Did Not Respond,4
+81,F,3,2,84789.3,N,M,CH,FreeLocal,Low Value and No Kids,7,10.45,4,7,Did Not Respond,3
+83,F,3,2,35976.5,Y,M,Auto,FreeLocal,Married No Kids,10,31.78,4,9,Did Not Respond,3
+84,F,1,0,32703.1,Y,M,CC,Budget,High Income Families,15,56.09,4,8,Did Not Respond,5
+85,F,2,1,77129.1,Y,M,CH,FreeLocal,Low Value and No Kids,9,20.07,4,12,Did Not Respond,4
+86,F,3,2,8204.72,N,M,CH,FreeLocal,Low Value and No Kids,8,24.19,3,8,Did Not Respond,4
+87,M,2,1,97180.4,N,M,CC,FreeLocal,High Income Families,13,45.66,4,4,Responded,3
+88,F,1,0,80405.1,N,M,CC,FreeLocal,High Income Families,6,17.11,4,1,Did Not Respond,4
+89,F,3,2,38280,N,S,Auto,FreeLocal,Married No Kids,17,74.97,4,6,Responded,2
+90,M,1,0,64136.6,Y,S,CC,FreeLocal,High Income Families,28,125.15,2,8,Did Not Respond,4
+92,F,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Responded,4
+94,F,1,0,25285.5,N,S,CC,FreeLocal,High Income Families,4,11.93,1,5,Responded,4
+95,F,3,2,77551.1,Y,M,CC,Budget,High Income Families,12,41.89,2,10,Did Not Respond,2
+96,F,1,0,38538.4,N,M,CC,FreeLocal,High Income Families,10,16.48,3,11,Responded,1
+97,F,1,0,69350.5,Y,S,CC,FreeLocal,High Income Families,6,25.95,4,1,Did Not Respond,4
+104,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,1,15,Responded,1
+108,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,1,11,Responded,4
+109,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+110,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,3,1,Did Not Respond,4
+111,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,2,13,Responded,4
+114,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,2,14,Did Not Respond,3
+117,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,2,11,Did Not Respond,4
+120,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,2,15,Did Not Respond,3
+121,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,3,14,Responded,1
+124,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+127,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,2,11,Did Not Respond,4
+130,F,3,2,83073.7,N,S,CC,Budget,High Income Families,1,3.2,4,0,Did Not Respond,3
+133,M,3,2,42750.3,Y,M,Auto,Budget,Married No Kids,27,112.4,1,10,Did Not Respond,3
+135,F,3,2,2842.55,N,S,Auto,Budget,Married No Kids,0,0.79,2,0,Did Not Respond,3
+136,M,3,2,22358.1,N,M,CC,Budget,High Income Families,6,12.19,1,8,Did Not Respond,4
+138,M,1,0,47870.8,Y,M,CC,FreeLocal,High Income Families,3,12.48,2,1,Did Not Respond,2
+139,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,1,11,Did Not Respond,4
+140,F,1,0,7325.5,N,S,CC,FreeLocal,High Income Families,38,161.54,2,14,Responded,2
+142,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,1,3,Did Not Respond,3
+148,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,3,13,Did Not Respond,1
+154,M,1,0,65000,Y,S,Auto,FreeLocal,Married No Kids,27,115.66,4,6,Responded,3
+158,M,3,2,1406.05,Y,M,CC,Budget,High Income Families,5,15.17,1,6,Did Not Respond,1
+160,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,4,11,Did Not Respond,4
+161,F,3,2,76231.9,N,S,Auto,FreeLocal,Married No Kids,31,150.75,2,1,Responded,4
+166,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,3,7,Responded,4
+169,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+174,M,2,1,63437.3,N,M,CC,Budget,High Income Families,3,10.94,4,0,Responded,4
+178,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,3,14,Did Not Respond,4
+180,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,4,6,Responded,3
+181,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,3,8,Did Not Respond,1
+182,F,2,1,12686,N,S,Auto,Budget,Married No Kids,21,80.64,2,12,Responded,5
+190,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,1,5,Did Not Respond,4
+191,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,4,15,Responded,3
+192,M,2,1,60102.7,N,M,CH,FreeLocal,Low Value and No Kids,14,62.44,3,5,Responded,3
+194,F,3,2,17888.7,N,M,CC,Budget,High Income Families,72,332.46,1,15,Did Not Respond,4
+195,F,2,1,12526.3,N,S,CC,FreeLocal,High Income Families,8,28.86,2,6,Responded,4
+198,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Did Not Respond,4
+201,M,1,0,78572.2,Y,M,CC,FreeLocal,High Income Families,10,29.28,4,11,Did Not Respond,3
+203,F,3,2,48238.8,N,M,CC,FreeLocal,High Income Families,38,168.03,4,12,Did Not Respond,2
+205,F,1,0,28770.9,N,M,CH,FreeLocal,Low Value and No Kids,10,16.27,4,14,Responded,1
+206,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,1,0,Did Not Respond,4
+207,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,2,13,Did Not Respond,1
+209,F,3,2,76791.2,N,S,CC,Budget,High Income Families,9,23,4,10,Did Not Respond,4
+213,F,1,0,30763.8,Y,D,CC,Budget,High Income Families,11,35.85,4,11,Responded,1
+214,F,3,2,3193.6,N,M,CH,Budget,Low Value and No Kids,24,114.62,3,2,Did Not Respond,4
+215,M,2,1,69680.9,N,M,CC,FreeLocal,High Income Families,8,32.12,2,4,Did Not Respond,1
+218,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,3,15,Did Not Respond,3
+219,M,1,0,2056.06,Y,S,Auto,Budget,Married No Kids,12,27.75,2,12,Responded,1
+220,F,3,2,7776.6,N,M,CC,FreeLocal,High Income Families,19,68.33,4,13,Did Not Respond,2
+221,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,4,8,Did Not Respond,3
+222,M,1,0,66666,N,S,CH,Budget,Low Value and No Kids,4,8.49,1,2,Responded,4
+224,F,3,2,69343.3,N,M,CC,FreeLocal,High Income Families,4,15.54,2,3,Did Not Respond,3
+225,F,1,0,77000,N,M,Auto,Budget,Married No Kids,5,23.89,4,0,Did Not Respond,4
+228,F,1,0,14932.5,N,M,CC,Budget,High Income Families,2,6.5,1,2,Did Not Respond,4
+229,F,1,0,27498.1,N,S,CC,Budget,High Income Families,2,9.88,4,1,Did Not Respond,3
+231,F,3,2,21419.9,N,M,CC,FreeLocal,High Income Families,26,103.12,1,13,Did Not Respond,4
+232,F,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,3,3,Did Not Respond,1
+233,F,2,1,66000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,2,3,Did Not Respond,4
+234,F,3,2,50561.3,N,M,CH,Budget,Low Value and No Kids,26,113.31,2,8,Did Not Respond,4
+236,F,3,2,23464,Y,S,CC,Budget,High Income Families,13,41.71,3,11,Did Not Respond,5
+237,F,3,2,194.57,N,M,CC,FreeLocal,High Income Families,13,38.95,4,14,Did Not Respond,3
+238,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,4,9,Did Not Respond,4
+239,M,2,1,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,3,7,Did Not Respond,3
+240,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,2,5,Did Not Respond,4
+241,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,2,11,Did Not Respond,3
+242,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,3,8,Did Not Respond,3
+243,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,3,7,Did Not Respond,3
+244,F,3,2,94026.8,Y,M,CC,FreeLocal,High Income Families,7,10.62,3,13,Did Not Respond,2
+246,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,2,13,Did Not Respond,4
+247,M,1,0,77000,N,M,CH,FreeLocal,Low Value and No Kids,7,26.69,4,2,Did Not Respond,3
+249,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,4,9,Did Not Respond,3
+250,F,3,2,63234.5,Y,M,CH,FreeLocal,Low Value and No Kids,0,1.16,3,0,Did Not Respond,4
+254,F,3,2,18296.4,Y,M,CC,FreeLocal,High Income Families,2,10.39,3,0,Did Not Respond,3
+255,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,4,11,Did Not Respond,1
+257,F,2,1,68000,N,S,Auto,FreeLocal,Married No Kids,17,63.29,3,11,Did Not Respond,4
+260,F,3,2,52957,Y,M,CH,FreeLocal,Low Value and No Kids,30,125.52,2,13,Did Not Respond,3
+261,F,3,2,86747.1,N,S,Auto,Budget,Married No Kids,11,37.24,3,10,Did Not Respond,5
+263,F,2,1,87404.6,N,M,Auto,Budget,Married No Kids,32,139.2,3,11,Did Not Respond,4
+264,M,3,2,20919,N,S,CC,FreeLocal,High Income Families,33,153.36,2,3,Did Not Respond,2
+265,F,3,2,85394,Y,M,Auto,Budget,Married No Kids,7,14.38,4,10,Did Not Respond,1
+266,F,1,0,2121.36,N,S,CC,FreeLocal,High Income Families,8,36.78,3,1,Responded,3
+267,F,3,2,63566.1,Y,M,CH,Budget,Low Value and No Kids,15,65.09,2,4,Did Not Respond,4
+270,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+271,F,3,2,25738.4,N,M,CH,Budget,Low Value and No Kids,10,19.2,1,10,Did Not Respond,3
+272,F,3,2,82644.2,Y,M,CC,FreeLocal,High Income Families,8,19.88,4,11,Did Not Respond,2
+273,F,2,1,27783.6,N,S,CC,FreeLocal,High Income Families,6,18.07,3,2,Responded,1
+276,F,3,2,60485.5,N,M,Auto,Budget,Married No Kids,8,28.7,1,6,Did Not Respond,3
+279,F,3,2,809.43,Y,M,CH,FreeLocal,Low Value and No Kids,1,2.89,1,0,Did Not Respond,2
+280,M,2,1,76529.8,N,S,CC,Budget,High Income Families,9,20.05,1,9,Responded,4
+281,F,3,2,34577.7,N,M,CH,Budget,Low Value and No Kids,29,116.57,2,15,Did Not Respond,4
+283,F,1,0,80000,N,M,Auto,Budget,Married No Kids,15,45.46,3,14,Did Not Respond,3
+284,F,3,2,19008.4,Y,S,CC,FreeLocal,High Income Families,30,137.19,4,5,Did Not Respond,4
+285,F,1,0,98056.3,N,M,Auto,FreeLocal,Married No Kids,30,126.96,3,12,Did Not Respond,4
+286,M,1,0,73400,Y,M,CH,Budget,Low Value and No Kids,0,2.21,4,0,Responded,5
+288,M,1,0,78894.2,N,M,CH,Budget,Low Value and No Kids,9,43.23,2,1,Did Not Respond,2
+289,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,1,10,Responded,1
+290,M,1,0,62797.9,N,M,CH,Budget,Low Value and No Kids,14,55.48,1,4,Responded,4
+291,M,2,1,71329.9,Y,S,CC,Budget,High Income Families,13,45.92,3,7,Responded,3
+295,F,1,0,20913.6,N,S,CC,FreeLocal,High Income Families,19,65.77,4,11,Responded,4
+298,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,4,6,Responded,3
+302,M,3,2,67339.8,N,M,CC,FreeLocal,High Income Families,16,48.69,2,14,Did Not Respond,1
+304,M,2,1,75799.9,N,M,CC,FreeLocal,High Income Families,19,64.8,3,11,Responded,3
+305,F,3,2,15688.5,N,S,CC,Budget,High Income Families,4,8.03,4,7,Responded,4
+306,F,1,0,43382.3,N,S,CH,FreeLocal,Low Value and No Kids,28,99.94,2,15,Responded,1
+308,F,1,0,5185.31,N,S,CC,FreeLocal,High Income Families,11,30.51,2,8,Responded,4
+309,F,1,0,41000,N,S,CC,Budget,High Income Families,27,108.44,4,13,Responded,1
+310,F,1,0,32098,N,S,CH,Budget,Low Value and No Kids,21,75.27,2,11,Responded,1
+312,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,4,4,Did Not Respond,3
+313,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,2,11,Did Not Respond,2
+315,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,2,14,Did Not Respond,4
+317,M,1,0,70908.7,N,M,CC,FreeLocal,High Income Families,11,43.2,4,4,Responded,3
+318,M,1,0,94928.3,N,S,CH,FreeLocal,Low Value and No Kids,19,73.74,4,7,Responded,3
+320,F,3,2,50622.3,N,M,Auto,FreeLocal,Married No Kids,23,90.19,2,10,Did Not Respond,3
+322,M,1,0,78000,Y,M,CC,FreeLocal,High Income Families,8,18.84,3,8,Responded,4
+326,M,1,0,100020,Y,M,CH,Budget,Low Value and No Kids,18,62.81,4,15,Responded,4
+329,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,2,9,Did Not Respond,4
+331,M,2,1,80000,N,M,CC,Budget,High Income Families,1,3.22,3,0,Responded,4
+332,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,4,9,Did Not Respond,1
+333,F,1,0,73400,Y,M,Auto,Budget,Married No Kids,2,10.22,2,0,Did Not Respond,4
+334,M,1,0,120000,Y,M,CC,FreeLocal,High Income Families,8,25.62,4,8,Responded,4
+335,F,3,2,8032.16,N,M,CC,FreeLocal,High Income Families,18,59.08,2,15,Did Not Respond,3
+336,F,2,1,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,4,9,Did Not Respond,3
+337,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,1,13,Responded,1
+338,F,1,0,83287,N,S,Auto,Budget,Married No Kids,43,208.19,4,0,Did Not Respond,5
+339,F,1,0,92564.1,Y,S,Auto,FreeLocal,Married No Kids,15,51.68,3,12,Did Not Respond,3
+341,M,1,0,86448.2,Y,S,CC,Budget,High Income Families,18,82.19,2,2,Responded,2
+343,F,3,2,48322.5,Y,M,CC,FreeLocal,High Income Families,10,43.6,1,3,Did Not Respond,3
+346,F,3,2,81913.8,Y,M,CC,FreeLocal,High Income Families,11,46.33,1,3,Did Not Respond,3
+349,F,1,0,919.93,N,S,CH,Budget,Low Value and No Kids,24,93.42,3,14,Responded,3
+350,F,3,2,69486.8,N,M,CC,Budget,High Income Families,3,9.39,1,4,Did Not Respond,2
+351,F,3,2,24482.8,N,M,CH,Budget,Low Value and No Kids,0,2,4,0,Did Not Respond,2
+353,F,1,0,14573.6,N,M,CC,Budget,High Income Families,53,236.97,4,13,Did Not Respond,5
+354,F,3,2,92103.8,N,M,CC,Budget,High Income Families,3,7.43,3,4,Did Not Respond,4
+355,F,3,2,8392.14,Y,S,CH,Budget,Low Value and No Kids,17,54.8,3,13,Did Not Respond,2
+356,F,1,0,17138.2,N,S,CC,FreeLocal,High Income Families,21,84.67,3,10,Responded,4
+358,F,3,2,47010.1,N,M,CC,Budget,High Income Families,33,164.76,1,1,Did Not Respond,4
+360,F,2,1,67239.4,N,S,Auto,FreeLocal,Married No Kids,13,53.81,2,6,Did Not Respond,3
+361,M,2,1,69406.7,Y,M,CC,FreeLocal,High Income Families,28,128.1,2,3,Did Not Respond,2
+363,F,3,2,83259.3,N,M,CC,Budget,High Income Families,1,4.46,4,0,Did Not Respond,3
+365,M,3,2,60095.2,Y,S,Auto,Budget,Married No Kids,24,116.14,2,1,Did Not Respond,1
+370,F,3,2,2185.6,N,M,CH,Budget,Low Value and No Kids,6,20.95,1,4,Did Not Respond,4
+372,M,2,1,76511.3,N,M,CC,FreeLocal,High Income Families,9,17.37,2,11,Responded,4
+374,F,2,1,6946.07,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,2,13,Responded,1
+375,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,3,0,Did Not Respond,3
+377,F,3,2,36660.9,Y,M,CH,Budget,Low Value and No Kids,1,3.36,1,0,Responded,3
+379,F,3,2,68462.8,N,M,CC,FreeLocal,High Income Families,18,60.51,2,12,Did Not Respond,2
+382,F,3,2,72841.3,N,M,CC,Budget,High Income Families,17,72.16,1,5,Did Not Respond,3
+383,F,3,2,63670.8,Y,M,Auto,FreeLocal,Married No Kids,16,51.47,2,14,Did Not Respond,3
+384,M,1,0,83287,N,S,CC,Budget,High Income Families,14,35.73,2,15,Responded,3
+385,F,2,1,66000,Y,S,Auto,Budget,Married No Kids,24,100.08,1,10,Did Not Respond,3
+386,M,1,0,12387.6,N,M,Auto,FreeLocal,Married No Kids,19,65.93,2,4,Did Not Respond,4
+388,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,2,10,Responded,5
+389,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,2,9,Did Not Respond,3
+391,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,2,5,Responded,3
+392,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+394,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,2,4,Did Not Respond,4
+398,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,2,10,Responded,4
+401,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,3,8,Did Not Respond,3
+404,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,3,9,Responded,2
+405,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,2,4,Did Not Respond,2
+407,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+408,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,2,1,Responded,3
+410,M,1,0,15924.2,N,S,CH,FreeLocal,Low Value and No Kids,0,1.46,2,0,Did Not Respond,1
+414,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,1,5,Did Not Respond,2
+418,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,3,3,Did Not Respond,1
+419,M,2,1,3960.5,N,S,Auto,FreeLocal,Married No Kids,19,66.35,2,15,Responded,1
+421,M,1,0,60101.1,Y,M,CH,FreeLocal,Low Value and No Kids,32,124.14,4,14,Responded,4
+422,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,2,0,Did Not Respond,2
+423,F,2,1,13829.4,N,M,CC,FreeLocal,High Income Families,35,160.42,1,14,Responded,1
+424,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,3,1,Did Not Respond,3
+426,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,3,11,Did Not Respond,1
+427,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,1,1,Did Not Respond,2
+428,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,2,2,Did Not Respond,2
+429,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,2,10,Did Not Respond,4
+431,F,1,0,35000,N,S,CC,Budget,High Income Families,53,262.91,3,15,Responded,1
+436,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,2,11,Did Not Respond,3
+438,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,4,6,Responded,4
+439,F,2,1,9309.57,Y,D,CC,FreeLocal,High Income Families,22,99.73,2,20,Responded,1
+440,F,2,1,14085.5,N,M,Auto,FreeLocal,Married No Kids,10,26.78,1,13,Responded,1
+441,F,1,0,32962.6,N,S,CC,Budget,High Income Families,34,154.77,2,14,Responded,1
+442,F,1,0,40000,N,S,CC,Budget,High Income Families,13,61.44,2,13,Did Not Respond,1
+443,F,3,2,33330,N,S,Auto,Budget,Married No Kids,8,35.73,3,17,Did Not Respond,1
+444,F,2,1,32098,N,S,Auto,Budget,Married No Kids,5,9.51,1,17,Responded,1
+445,F,3,2,30090,N,S,CC,FreeLocal,High Income Families,13,38.18,1,19,Responded,1
+446,F,2,1,40120,N,S,CC,Budget,High Income Families,27,106.3,4,14,Responded,1
+450,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,4,7,Responded,3
+455,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,2,11,Did Not Respond,2
+456,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,1,15,Did Not Respond,3
+458,F,2,1,2929.13,N,S,CH,Budget,Low Value and No Kids,20,88.23,1,7,Responded,4
+460,F,3,2,41876.6,Y,M,CC,FreeLocal,High Income Families,28,132.65,3,3,Did Not Respond,3
+461,M,1,0,96223.4,Y,M,CC,FreeLocal,High Income Families,4,5.73,1,6,Responded,5
+462,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,4,2,Responded,4
+463,M,1,0,69168.4,Y,M,CC,Budget,High Income Families,47,214.73,2,7,Responded,4
+464,M,2,1,92148.5,Y,M,CC,Budget,High Income Families,23,100.9,2,2,Responded,2
+465,M,1,0,96681,Y,M,CC,Budget,High Income Families,15,40.92,2,4,Did Not Respond,1
+466,M,1,0,62705.9,Y,S,CC,FreeLocal,High Income Families,7,6.81,2,4,Did Not Respond,2
+467,M,1,0,80221.2,N,S,Auto,FreeLocal,Married No Kids,10,49.56,2,5,Did Not Respond,2
+468,M,1,0,84479.2,N,S,CC,FreeLocal,High Income Families,11,43.01,2,4,Did Not Respond,2
+469,F,3,2,64977.4,N,M,CC,FreeLocal,High Income Families,9,17.66,2,14,Did Not Respond,2
+470,F,1,0,77994,N,M,CH,FreeLocal,Low Value and No Kids,20,89.62,1,6,Did Not Respond,3
+471,M,3,2,90103.7,N,M,CC,Budget,High Income Families,13,45.34,3,6,Did Not Respond,2
+472,F,1,0,59008.4,Y,M,CC,Budget,High Income Families,6,18.73,1,6,Responded,2
+473,M,3,2,5265.35,N,M,Auto,Budget,Married No Kids,6,23.46,3,1,Did Not Respond,4
+474,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,1,3,Responded,1
+475,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,3,11,Responded,3
+476,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+477,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,3,10,Did Not Respond,3
+478,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,1,2,Responded,4
+479,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+481,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,3,10,Did Not Respond,2
+484,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,2,11,Responded,1
+488,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,2,7,Did Not Respond,4
+491,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,3,0,Did Not Respond,3
+492,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,2,14,Did Not Respond,3
+493,M,2,1,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,3,12,Did Not Respond,4
+494,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,4,14,Responded,1
+495,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,1,15,Did Not Respond,4
+497,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,1,15,Did Not Respond,4
+498,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,3,7,Did Not Respond,3
+499,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,2,12,Did Not Respond,3
+500,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,4,8,Did Not Respond,3
+504,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,3,8,Responded,3
+505,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,4,4,Did Not Respond,3
+506,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,4,11,Did Not Respond,3
+508,M,1,0,90321.6,N,S,Auto,FreeLocal,Married No Kids,2,11.52,2,0,Did Not Respond,2
+509,M,1,0,90478.6,N,S,CC,FreeLocal,High Income Families,31,136.47,2,9,Responded,4
+510,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,3
+513,F,2,1,37000,N,S,CC,Budget,High Income Families,46,206.08,2,12,Responded,1
+518,M,3,2,29616,N,M,CH,FreeLocal,Low Value and No Kids,15,45.5,1,15,Did Not Respond,3
+520,M,1,0,19732.8,N,M,CC,FreeLocal,High Income Families,9,22.44,2,12,Did Not Respond,3
+523,M,3,2,96.33,N,S,CC,Budget,High Income Families,12,32.88,4,13,Did Not Respond,4
+526,F,3,2,52004.8,N,M,CH,Budget,Low Value and No Kids,6,23.11,1,3,Did Not Respond,1
+529,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+530,M,1,0,75004.5,N,M,CC,Budget,High Income Families,12,32.19,2,13,Did Not Respond,5
+533,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,1,10,Did Not Respond,4
+534,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,3,5,Did Not Respond,3
+535,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,4,5,Did Not Respond,2
+536,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,4,9,Did Not Respond,2
+541,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,3,11,Responded,1
+547,F,1,0,78851.3,N,S,CC,FreeLocal,High Income Families,6,28.66,4,0,Responded,3
+548,F,2,1,17540.7,Y,S,Auto,Budget,Married No Kids,7,13.45,1,11,Responded,4
+549,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Responded,4
+550,F,3,2,28220.8,N,M,CC,FreeLocal,High Income Families,8,12.46,4,13,Responded,3
+552,F,1,0,28589.1,N,S,CC,FreeLocal,High Income Families,20,87.09,4,7,Responded,1
+554,F,3,2,5237.63,N,M,CC,Budget,High Income Families,16,56.64,1,7,Did Not Respond,3
+557,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,3,6,Responded,4
+560,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,4,7,Responded,3
+561,F,1,0,81710.9,N,S,CC,FreeLocal,High Income Families,7,15.46,4,10,Did Not Respond,4
+564,F,3,2,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Responded,4
+565,F,2,1,57063,Y,M,CH,Budget,Low Value and No Kids,20,81.3,4,8,Did Not Respond,4
+566,F,3,2,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+572,F,2,1,7737.94,N,S,CC,FreeLocal,High Income Families,12,50.84,2,6,Responded,3
+573,M,3,2,100020,N,S,CH,Budget,Low Value and No Kids,63,293.24,4,11,Responded,3
+574,F,3,2,45287.6,Y,M,CC,Budget,High Income Families,1,2.97,3,0,Did Not Respond,2
+575,F,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,2,6,Responded,2
+577,F,2,1,16326.7,N,S,CC,FreeLocal,High Income Families,0,1.34,2,0,Responded,3
+580,F,3,2,9559.78,N,S,CC,FreeLocal,High Income Families,16,59.59,3,9,Responded,4
+583,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+585,F,3,2,83284.1,Y,M,Auto,FreeLocal,Married No Kids,7,9.04,3,13,Did Not Respond,2
+586,M,2,1,39229.1,N,M,CC,Budget,High Income Families,9,13.53,4,14,Did Not Respond,2
+587,F,2,1,68427.4,N,D,Auto,FreeLocal,Married No Kids,15,50.05,4,12,Did Not Respond,3
+589,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,1,5,Did Not Respond,3
+591,F,1,0,98716.3,N,S,CC,FreeLocal,High Income Families,9,13.92,4,10,Did Not Respond,4
+592,F,3,2,66182.7,Y,S,Auto,Budget,Married No Kids,12,47.17,2,6,Did Not Respond,4
+593,F,3,2,84789.3,N,S,CH,FreeLocal,Low Value and No Kids,7,10.45,4,7,Responded,3
+595,F,3,2,35976.5,Y,M,Auto,FreeLocal,Married No Kids,10,31.78,4,9,Responded,3
+596,F,1,0,32703.1,Y,M,CC,Budget,High Income Families,15,56.09,4,8,Did Not Respond,5
+598,F,3,2,8204.72,N,M,CH,FreeLocal,Low Value and No Kids,8,24.19,4,8,Did Not Respond,4
+599,M,2,1,97180.4,N,M,CH,FreeLocal,Low Value and No Kids,13,45.66,4,4,Responded,3
+601,F,3,2,38280,N,S,Auto,FreeLocal,Married No Kids,17,74.97,4,6,Responded,2
+602,M,1,0,64136.6,Y,S,CC,FreeLocal,High Income Families,28,125.15,2,8,Responded,4
+604,F,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,3,12,Responded,4
+606,F,1,0,25285.5,N,S,CC,FreeLocal,High Income Families,4,11.93,4,5,Responded,4
+607,F,3,2,77551.1,Y,M,CC,Budget,High Income Families,12,41.89,3,10,Did Not Respond,2
+608,F,1,0,38538.4,N,M,CC,FreeLocal,High Income Families,10,16.48,3,11,Responded,1
+609,F,1,0,69350.5,Y,S,CC,FreeLocal,High Income Families,6,25.95,4,1,Responded,4
+616,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,4,15,Responded,1
+620,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,4,11,Responded,4
+621,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+622,M,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,2,Did Not Respond,4
+623,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,3,13,Responded,4
+626,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,3,14,Responded,3
+629,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,3,11,Did Not Respond,4
+632,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,4,15,Did Not Respond,3
+633,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,4,14,Responded,1
+636,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,1,2,Did Not Respond,1
+639,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,1,11,Did Not Respond,4
+645,M,3,2,42750.3,Y,M,Auto,Budget,Married No Kids,27,112.4,2,10,Did Not Respond,3
+647,F,3,2,2842.55,N,S,Auto,Budget,Married No Kids,0,0.79,4,0,Did Not Respond,3
+648,M,3,2,22358.1,N,M,CC,Budget,High Income Families,6,12.19,3,8,Did Not Respond,4
+650,M,1,0,47870.8,Y,M,CC,FreeLocal,High Income Families,3,12.48,2,1,Did Not Respond,2
+651,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,2,11,Did Not Respond,3
+652,F,1,0,7325.5,N,S,CC,FreeLocal,High Income Families,38,161.54,2,14,Responded,2
+654,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,4,3,Did Not Respond,3
+656,M,2,1,5252.29,N,M,Auto,Budget,Married No Kids,4,17.08,2,1,Did Not Respond,1
+660,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,3,13,Did Not Respond,1
+666,M,1,0,69000,Y,S,CC,FreeLocal,High Income Families,27,115.66,4,6,Responded,4
+670,M,3,2,1406.05,Y,M,CC,Budget,High Income Families,5,15.17,3,6,Did Not Respond,1
+672,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,2,11,Did Not Respond,3
+673,F,3,2,76231.9,N,S,Auto,FreeLocal,Married No Kids,31,150.75,4,1,Did Not Respond,4
+678,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,1,7,Responded,4
+681,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+686,M,2,1,63437.3,N,M,CC,Budget,High Income Families,3,10.94,3,0,Responded,4
+690,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,1,14,Did Not Respond,4
+692,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,3,6,Responded,3
+693,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,4,8,Did Not Respond,1
+694,F,2,1,12686,N,S,Auto,Budget,Married No Kids,21,80.64,1,12,Responded,5
+702,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,2,5,Did Not Respond,4
+703,M,2,1,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,4,15,Responded,3
+704,M,2,1,60102.7,N,M,CH,FreeLocal,Low Value and No Kids,14,62.44,4,5,Responded,3
+706,F,3,2,17888.7,N,M,CC,Budget,High Income Families,72,332.46,4,15,Did Not Respond,3
+707,F,2,1,12526.3,N,S,CC,FreeLocal,High Income Families,8,28.86,1,6,Responded,4
+710,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Did Not Respond,4
+713,M,1,0,78572.2,Y,M,CC,FreeLocal,High Income Families,10,29.28,3,11,Responded,3
+714,M,2,1,3933.74,N,M,CC,Budget,High Income Families,12,47.91,2,5,Responded,1
+715,F,3,2,48238.8,N,M,CC,FreeLocal,High Income Families,38,168.03,1,12,Did Not Respond,2
+717,F,1,0,28770.9,N,M,CH,FreeLocal,Low Value and No Kids,10,16.27,3,14,Did Not Respond,1
+718,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,2,0,Did Not Respond,4
+719,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,2,13,Did Not Respond,1
+721,F,3,2,76791.2,N,S,CC,Budget,High Income Families,9,23,1,10,Did Not Respond,3
+725,F,1,0,30763.8,Y,S,CC,Budget,High Income Families,11,35.85,4,11,Responded,1
+726,F,3,2,3193.6,N,M,CH,Budget,Low Value and No Kids,24,114.62,3,2,Did Not Respond,4
+730,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,4,15,Responded,4
+731,M,2,1,2056.06,Y,S,Auto,Budget,Married No Kids,12,27.75,4,12,Responded,1
+732,F,3,2,7776.6,N,M,CC,FreeLocal,High Income Families,19,68.33,3,13,Did Not Respond,2
+733,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,2,8,Did Not Respond,3
+734,M,1,0,77000,N,S,CC,Budget,High Income Families,4,8.49,3,2,Responded,4
+736,F,3,2,69343.3,N,M,CC,FreeLocal,High Income Families,4,15.54,2,3,Did Not Respond,3
+737,F,1,0,83287,N,M,Auto,Budget,Married No Kids,5,23.89,2,0,Did Not Respond,3
+740,F,1,0,14932.5,N,M,CC,Budget,High Income Families,2,6.5,2,2,Did Not Respond,3
+741,F,1,0,27498.1,N,S,CC,Budget,High Income Families,2,9.88,4,1,Did Not Respond,4
+743,F,3,2,21419.9,N,M,CC,FreeLocal,High Income Families,26,103.12,1,13,Did Not Respond,4
+744,F,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,4,3,Did Not Respond,1
+745,F,2,1,70000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,2,3,Did Not Respond,5
+746,F,3,2,50561.3,N,M,CH,Budget,Low Value and No Kids,26,113.31,2,8,Did Not Respond,3
+748,F,3,2,23464,Y,S,CC,Budget,High Income Families,13,41.71,3,11,Did Not Respond,4
+749,F,3,2,194.57,N,M,CC,FreeLocal,High Income Families,13,38.95,2,14,Did Not Respond,3
+750,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,4,9,Did Not Respond,3
+751,M,1,0,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,2,7,Responded,4
+752,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,4,5,Did Not Respond,3
+753,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,1,11,Did Not Respond,4
+754,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,1,8,Did Not Respond,3
+755,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,4,7,Did Not Respond,5
+756,F,3,2,94026.8,Y,M,CC,FreeLocal,High Income Families,7,10.62,2,13,Did Not Respond,2
+758,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,4,13,Did Not Respond,4
+759,M,1,0,66666,N,M,CC,FreeLocal,High Income Families,7,26.69,1,2,Responded,3
+761,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,4,9,Did Not Respond,3
+762,F,3,2,63234.5,Y,M,CH,FreeLocal,Low Value and No Kids,0,1.16,4,0,Did Not Respond,4
+766,F,3,2,18296.4,Y,M,CC,FreeLocal,High Income Families,2,10.39,4,0,Did Not Respond,3
+767,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,1,11,Responded,1
+769,F,2,1,70000,N,S,Auto,FreeLocal,Married No Kids,17,63.29,1,11,Did Not Respond,4
+771,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+772,F,3,2,52957,Y,M,CH,FreeLocal,Low Value and No Kids,30,125.52,4,13,Did Not Respond,3
+773,F,3,2,86747.1,N,S,Auto,Budget,Married No Kids,11,37.24,4,10,Did Not Respond,5
+775,F,2,1,87404.6,N,M,Auto,Budget,Married No Kids,32,139.2,2,11,Did Not Respond,4
+777,F,3,2,85394,Y,M,Auto,Budget,Married No Kids,7,14.38,2,10,Did Not Respond,1
+778,F,1,0,2121.36,N,S,CC,FreeLocal,High Income Families,8,36.78,3,1,Responded,3
+779,F,3,2,63566.1,Y,M,CH,Budget,Low Value and No Kids,15,65.09,4,4,Did Not Respond,4
+782,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+783,F,3,2,25738.4,N,M,CH,Budget,Low Value and No Kids,10,19.2,1,10,Did Not Respond,3
+784,F,3,2,82644.2,Y,M,CC,FreeLocal,High Income Families,8,19.88,2,11,Did Not Respond,2
+785,F,2,1,27783.6,N,S,CC,FreeLocal,High Income Families,6,18.07,2,2,Responded,1
+788,F,3,2,60485.5,N,M,Auto,Budget,Married No Kids,8,28.7,3,6,Did Not Respond,3
+791,F,3,2,809.43,Y,M,CH,FreeLocal,Low Value and No Kids,1,2.89,4,0,Did Not Respond,2
+792,M,2,1,76529.8,N,S,CC,Budget,High Income Families,9,20.05,4,9,Did Not Respond,4
+793,F,3,2,34577.7,N,M,CH,Budget,Low Value and No Kids,29,116.57,4,15,Did Not Respond,4
+795,F,1,0,66666,N,M,Auto,Budget,Married No Kids,15,45.46,1,14,Did Not Respond,5
+796,F,3,2,19008.4,Y,S,CC,FreeLocal,High Income Families,30,137.19,4,5,Did Not Respond,4
+797,F,1,0,98056.3,N,M,Auto,FreeLocal,Married No Kids,30,126.96,1,12,Did Not Respond,4
+798,M,1,0,80000,Y,M,CH,Budget,Low Value and No Kids,0,2.21,1,0,Responded,4
+800,M,1,0,78894.2,N,M,CH,Budget,Low Value and No Kids,9,43.23,3,1,Responded,4
+801,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,4,10,Responded,1
+802,M,2,1,62797.9,N,S,CH,Budget,Low Value and No Kids,14,55.48,2,4,Did Not Respond,2
+803,M,2,1,71329.9,Y,S,CC,Budget,High Income Families,13,45.92,3,7,Responded,3
+807,F,1,0,20913.6,N,S,CC,FreeLocal,High Income Families,19,65.77,1,11,Responded,4
+810,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,3,6,Responded,3
+814,M,3,2,67339.8,N,M,CC,FreeLocal,High Income Families,16,48.69,3,14,Did Not Respond,1
+816,M,2,1,75799.9,N,M,CC,FreeLocal,High Income Families,19,64.8,2,11,Responded,3
+817,F,3,2,15688.5,N,S,CC,Budget,High Income Families,4,8.03,3,7,Did Not Respond,4
+818,F,1,0,43382.3,N,S,CH,FreeLocal,Low Value and No Kids,28,99.94,3,15,Responded,1
+820,F,1,0,5185.31,N,S,CC,FreeLocal,High Income Families,11,30.51,4,8,Responded,4
+821,F,2,1,13011.4,N,D,CC,Budget,High Income Families,27,108.44,3,13,Did Not Respond,1
+822,F,1,0,35000,N,S,CH,Budget,Low Value and No Kids,21,75.27,4,11,Responded,1
+824,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,3,4,Did Not Respond,3
+825,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,1,11,Did Not Respond,2
+827,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Did Not Respond,4
+829,M,2,1,70908.7,N,M,CC,FreeLocal,High Income Families,11,43.2,1,4,Responded,3
+830,M,1,0,94928.3,N,S,CC,FreeLocal,High Income Families,19,73.74,1,7,Responded,3
+832,F,3,2,50622.3,N,M,Auto,FreeLocal,Married No Kids,23,90.19,3,10,Did Not Respond,3
+834,M,1,0,100020,Y,M,CC,FreeLocal,High Income Families,8,18.84,4,8,Responded,4
+838,M,1,0,65000,Y,M,CH,Budget,Low Value and No Kids,18,62.81,1,15,Responded,4
+840,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+841,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,4,9,Responded,4
+843,M,2,1,120000,N,M,CC,Budget,High Income Families,1,3.22,1,0,Responded,4
+844,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,1,9,Did Not Respond,1
+845,F,1,0,78000,Y,M,Auto,Budget,Married No Kids,2,10.22,3,0,Did Not Respond,4
+846,M,1,0,73400,Y,M,CC,FreeLocal,High Income Families,8,25.62,2,8,Responded,4
+847,F,3,2,8032.16,N,M,CC,FreeLocal,High Income Families,18,59.08,3,15,Did Not Respond,3
+848,F,2,1,93454.3,Y,D,Auto,FreeLocal,Married No Kids,9,25.18,2,9,Did Not Respond,3
+849,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,1,13,Responded,1
+850,F,1,0,77000,N,S,Auto,Budget,Married No Kids,43,208.19,2,0,Did Not Respond,4
+851,F,1,0,92564.1,Y,S,Auto,FreeLocal,Married No Kids,15,51.68,3,12,Did Not Respond,3
+853,M,1,0,68000,Y,S,CH,Budget,Low Value and No Kids,18,82.19,3,2,Responded,3
+855,F,3,2,48322.5,Y,M,CC,FreeLocal,High Income Families,10,43.6,2,3,Did Not Respond,3
+857,M,3,2,78373.5,N,S,Auto,Budget,Married No Kids,40,184.02,2,3,Did Not Respond,2
+858,F,3,2,81913.8,Y,M,CC,FreeLocal,High Income Families,11,46.33,3,3,Did Not Respond,3
+861,F,1,0,919.93,N,S,CH,Budget,Low Value and No Kids,24,93.42,4,14,Responded,3
+862,F,3,2,69486.8,N,M,CC,Budget,High Income Families,3,9.39,3,4,Did Not Respond,2
+863,F,3,2,24482.8,N,M,CH,Budget,Low Value and No Kids,0,2,4,0,Responded,2
+865,F,1,0,14573.6,N,M,CC,Budget,High Income Families,53,236.97,4,13,Did Not Respond,5
+866,F,3,2,92103.8,N,M,CC,Budget,High Income Families,3,7.43,4,4,Did Not Respond,4
+867,F,3,2,8392.14,Y,S,CH,Budget,Low Value and No Kids,17,54.8,1,13,Responded,2
+868,F,1,0,17138.2,N,S,CC,FreeLocal,High Income Families,21,84.67,2,10,Responded,4
+870,F,3,2,47010.1,N,M,CC,Budget,High Income Families,33,164.76,2,1,Did Not Respond,4
+872,F,1,0,67239.4,N,S,Auto,FreeLocal,Married No Kids,13,53.81,1,6,Did Not Respond,3
+873,M,2,1,69406.7,Y,M,CC,FreeLocal,High Income Families,28,128.1,2,3,Did Not Respond,2
+875,F,3,2,83259.3,N,M,CC,Budget,High Income Families,1,4.46,1,0,Did Not Respond,3
+878,M,2,1,20818.5,N,M,Auto,FreeLocal,Married No Kids,13,47.85,2,5,Responded,1
+882,F,3,2,2185.6,N,M,CH,Budget,Low Value and No Kids,6,20.95,1,4,Did Not Respond,4
+884,M,2,1,76511.3,N,M,CC,FreeLocal,High Income Families,9,17.37,2,11,Responded,4
+886,F,2,1,34555,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,4,13,Responded,1
+887,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,2,0,Did Not Respond,3
+889,F,3,2,36660.9,Y,M,CH,Budget,Low Value and No Kids,1,3.36,3,0,Did Not Respond,3
+891,F,3,2,68462.8,N,M,CC,FreeLocal,High Income Families,18,60.51,1,12,Did Not Respond,2
+894,F,3,2,72841.3,N,M,CC,Budget,High Income Families,17,72.16,2,5,Did Not Respond,3
+895,F,3,2,63670.8,Y,M,Auto,FreeLocal,Married No Kids,16,51.47,3,14,Did Not Respond,3
+896,M,1,0,80000,N,S,CC,Budget,High Income Families,14,35.73,3,15,Responded,3
+897,F,2,1,83287,Y,S,Auto,Budget,Married No Kids,24,100.08,3,10,Did Not Respond,3
+898,M,1,0,12387.6,N,M,Auto,FreeLocal,Married No Kids,19,65.93,2,1,Did Not Respond,4
+900,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,1,10,Did Not Respond,5
+901,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,3,9,Did Not Respond,3
+903,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,4,5,Responded,3
+904,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+906,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,3,4,Did Not Respond,4
+910,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,4,10,Responded,4
+913,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,2,8,Did Not Respond,3
+916,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,1,9,Did Not Respond,2
+917,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,1,4,Responded,2
+919,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+920,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,3,1,Did Not Respond,3
+926,M,2,1,21416.5,N,D,CC,FreeLocal,High Income Families,6,8.53,2,5,Did Not Respond,2
+930,M,2,1,78554.2,N,S,Auto,Budget,Married No Kids,7,23.03,2,3,Did Not Respond,1
+931,M,2,1,3960.5,N,S,Auto,FreeLocal,Married No Kids,19,66.35,2,15,Responded,1
+933,M,1,0,60101.1,Y,M,CH,FreeLocal,Low Value and No Kids,32,124.14,2,14,Responded,4
+934,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,4,0,Did Not Respond,2
+935,F,2,1,13829.4,N,M,CC,FreeLocal,High Income Families,35,160.42,1,15,Responded,1
+936,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,2,1,Responded,3
+938,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,2,11,Did Not Respond,1
+939,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,3,1,Did Not Respond,2
+940,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,4,2,Responded,4
+941,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,3,10,Did Not Respond,4
+943,F,1,0,40120,N,S,CC,Budget,High Income Families,53,262.91,3,15,Responded,1
+948,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,3,11,Did Not Respond,3
+950,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,3,6,Responded,4
+951,F,1,0,40120,Y,D,CC,FreeLocal,High Income Families,22,99.73,2,20,Responded,1
+952,F,2,1,40120,N,M,Auto,FreeLocal,Married No Kids,10,26.78,4,13,Responded,1
+953,F,1,0,40120,N,S,CC,Budget,High Income Families,34,154.77,3,14,Responded,1
+954,F,1,0,40120,N,S,CC,Budget,High Income Families,13,61.44,2,13,Responded,1
+955,F,3,2,42000,N,S,Auto,Budget,Married No Kids,8,35.73,4,17,Responded,1
+956,F,1,0,40120,N,S,Auto,Budget,Married No Kids,5,9.51,4,17,Responded,1
+957,F,3,2,40120,N,S,CC,FreeLocal,High Income Families,13,38.18,2,19,Responded,1
+958,F,2,1,40120,N,S,CC,Budget,High Income Families,27,106.3,1,14,Responded,1
+962,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,1,7,Did Not Respond,3
+967,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,4,11,Responded,2
+968,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,4,15,Did Not Respond,3
+970,F,2,1,2929.13,N,S,CH,Budget,Low Value and No Kids,20,88.23,1,7,Responded,4
+972,F,3,2,41876.6,Y,M,CC,FreeLocal,High Income Families,28,132.65,4,3,Did Not Respond,3
+973,M,1,0,96223.4,Y,M,CC,FreeLocal,High Income Families,4,5.73,3,6,Responded,5
+974,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,3,2,Responded,4
+975,M,1,0,69168.4,Y,M,CC,Budget,High Income Families,47,214.73,3,7,Responded,4
+976,M,2,1,92148.5,Y,M,CC,Budget,High Income Families,23,100.9,2,1,Did Not Respond,2
+977,M,1,0,96681,Y,M,CC,Budget,High Income Families,15,40.92,2,1,Did Not Respond,1
+978,M,1,0,62705.9,Y,S,CC,FreeLocal,High Income Families,7,6.81,2,1,Did Not Respond,3
+979,M,1,0,80221.2,N,S,Auto,FreeLocal,Married No Kids,10,49.56,2,1,Did Not Respond,2
+980,M,1,0,84479.2,N,S,CC,FreeLocal,High Income Families,11,43.01,2,1,Did Not Respond,2
+981,F,3,2,64977.4,N,M,CC,FreeLocal,High Income Families,9,17.66,3,14,Did Not Respond,2
+982,F,1,0,77994,N,M,CH,FreeLocal,Low Value and No Kids,20,89.62,1,6,Did Not Respond,3
+983,M,3,2,90103.7,N,M,CC,Budget,High Income Families,13,45.34,4,6,Did Not Respond,2
+984,F,1,0,59008.4,Y,M,CC,Budget,High Income Families,6,18.73,1,6,Responded,2
+985,M,3,2,5265.35,N,M,Auto,Budget,Married No Kids,6,23.46,3,1,Did Not Respond,4
+986,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Did Not Respond,1
+987,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,4,11,Did Not Respond,3
+988,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+989,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,2,10,Did Not Respond,3
+990,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,2,2,Responded,4
+991,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+993,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,1,10,Did Not Respond,2
+996,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,1,11,Responded,1
+1000,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,3,7,Did Not Respond,4
+1003,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,3
+1004,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,4,14,Did Not Respond,3
+1005,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+1006,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,1,14,Responded,1
+1007,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,1,15,Responded,4
+1008,M,2,1,31952,N,S,CC,Budget,High Income Families,1,4.87,2,0,Did Not Respond,2
+1009,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+1010,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,4,7,Did Not Respond,3
+1011,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,3,12,Did Not Respond,3
+1012,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,3,8,Did Not Respond,4
+1016,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,1,8,Responded,3
+1017,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,3,4,Did Not Respond,3
+1018,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,1,11,Did Not Respond,4
+1020,M,1,0,90321.6,N,S,CC,FreeLocal,High Income Families,2,11.52,3,0,Responded,4
+1021,M,2,1,90478.6,N,D,CC,FreeLocal,High Income Families,31,136.47,4,9,Responded,4
+1022,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,3,4,Did Not Respond,3
+1023,M,2,1,28313.1,N,M,CC,Budget,High Income Families,3,6.74,2,3,Did Not Respond,1
+1025,F,2,1,41000,N,S,CC,Budget,High Income Families,46,206.08,2,12,Responded,1
+1030,M,3,2,29616,N,M,CH,FreeLocal,Low Value and No Kids,15,45.5,4,15,Did Not Respond,3
+1032,M,1,0,19732.8,N,M,CC,FreeLocal,High Income Families,9,22.44,1,12,Did Not Respond,3
+1035,M,3,2,96.33,N,S,CC,Budget,High Income Families,12,32.88,3,13,Did Not Respond,4
+1038,F,3,2,52004.8,N,M,CH,Budget,Low Value and No Kids,6,23.11,2,3,Did Not Respond,1
+1041,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,4,6,Did Not Respond,1
+1042,M,1,0,75004.5,N,M,CC,Budget,High Income Families,12,32.19,1,13,Did Not Respond,5
+1045,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,2,10,Did Not Respond,4
+1046,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,1,5,Did Not Respond,3
+1047,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,1,5,Did Not Respond,2
+1048,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,3,9,Did Not Respond,2
+1053,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,2,11,Responded,1
+1059,F,1,0,78851.3,N,S,CC,FreeLocal,High Income Families,6,28.66,3,0,Did Not Respond,3
+1060,F,2,1,17540.7,Y,S,Auto,Budget,Married No Kids,7,13.45,1,11,Responded,4
+1061,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Responded,4
+1062,F,3,2,28220.8,N,M,CC,FreeLocal,High Income Families,8,12.46,4,13,Responded,3
+1064,F,1,0,28589.1,N,S,CC,FreeLocal,High Income Families,20,87.09,1,7,Responded,1
+1066,F,3,2,5237.63,N,M,CC,Budget,High Income Families,16,56.64,3,7,Did Not Respond,3
+1069,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+1072,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,4,7,Responded,3
+1073,F,1,0,81710.9,N,S,CC,FreeLocal,High Income Families,7,15.46,4,10,Did Not Respond,4
+1076,F,3,2,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+1077,F,2,1,57063,Y,M,CH,Budget,Low Value and No Kids,20,81.3,4,8,Did Not Respond,4
+1078,F,3,2,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+1079,F,1,0,45612.9,N,S,CC,Budget,High Income Families,65,311.29,4,6,Did Not Respond,1
+1084,F,2,1,7737.94,N,S,CC,FreeLocal,High Income Families,12,50.84,4,6,Responded,3
+1085,M,3,2,120000,N,S,CH,Budget,Low Value and No Kids,63,293.24,2,11,Responded,3
+1086,F,3,2,45287.6,Y,M,CC,Budget,High Income Families,1,2.97,2,0,Did Not Respond,2
+1087,F,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,4,6,Responded,2
+1089,F,2,1,16326.7,N,S,CC,FreeLocal,High Income Families,0,1.34,2,0,Responded,3
+1092,F,3,2,9559.78,N,S,CC,FreeLocal,High Income Families,16,59.59,2,9,Responded,4
+1095,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,4,10,Did Not Respond,3
+1097,F,3,2,83284.1,Y,M,Auto,FreeLocal,Married No Kids,7,9.04,3,13,Did Not Respond,2
+1098,M,2,1,39229.1,N,M,CC,Budget,High Income Families,9,13.53,4,14,Did Not Respond,2
+1099,F,2,1,68427.4,N,D,Auto,FreeLocal,Married No Kids,15,50.05,1,12,Did Not Respond,3
+1101,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,4,5,Responded,3
+1103,F,1,0,98716.3,N,S,CC,FreeLocal,High Income Families,9,13.92,4,10,Responded,4
+1104,F,3,2,66182.7,Y,S,Auto,Budget,Married No Kids,12,47.17,4,6,Did Not Respond,4
+1105,F,3,2,84789.3,N,M,CH,FreeLocal,Low Value and No Kids,7,10.45,4,7,Responded,3
+1107,F,3,2,35976.5,Y,M,Auto,FreeLocal,Married No Kids,10,31.78,4,9,Responded,3
+1108,F,1,0,32703.1,Y,M,CC,Budget,High Income Families,15,56.09,4,8,Responded,5
+1110,F,3,2,8204.72,N,M,CH,FreeLocal,Low Value and No Kids,8,24.19,2,8,Did Not Respond,4
+1111,M,2,1,97180.4,N,M,CC,FreeLocal,High Income Families,13,45.66,3,4,Responded,3
+1112,F,1,0,80405.1,N,M,CC,FreeLocal,High Income Families,6,17.11,4,1,Did Not Respond,4
+1113,F,3,2,38280,N,S,Auto,FreeLocal,Married No Kids,17,74.97,2,6,Did Not Respond,2
+1114,M,1,0,64136.6,Y,S,CC,FreeLocal,High Income Families,28,125.15,1,8,Responded,4
+1116,F,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Responded,4
+1118,F,1,0,25285.5,N,S,CC,FreeLocal,High Income Families,4,11.93,3,5,Responded,4
+1119,F,3,2,77551.1,Y,M,CC,Budget,High Income Families,12,41.89,3,10,Did Not Respond,2
+1120,F,1,0,38538.4,N,M,CC,FreeLocal,High Income Families,10,16.48,1,11,Responded,1
+1127,M,1,0,92881.8,N,M,CC,FreeLocal,High Income Families,19,85.29,2,1,Did Not Respond,1
+1128,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,2,15,Responded,1
+1132,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,1,11,Responded,4
+1133,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,2,8,Responded,4
+1134,M,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,1,Did Not Respond,4
+1135,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,2,13,Responded,4
+1138,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,1,14,Responded,3
+1141,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,4,11,Did Not Respond,4
+1144,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,1,15,Did Not Respond,3
+1145,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,1,14,Responded,1
+1148,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+1151,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,2,11,Responded,4
+1157,M,3,2,42750.3,Y,M,Auto,Budget,Married No Kids,27,112.4,2,10,Responded,3
+1159,F,3,2,2842.55,N,S,Auto,Budget,Married No Kids,0,0.79,4,0,Did Not Respond,3
+1160,M,3,2,22358.1,N,M,CC,Budget,High Income Families,6,12.19,3,8,Did Not Respond,4
+1162,M,1,0,47870.8,Y,M,CC,FreeLocal,High Income Families,3,12.48,2,1,Did Not Respond,2
+1163,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,2,11,Did Not Respond,3
+1164,F,1,0,7325.5,N,S,CC,FreeLocal,High Income Families,38,161.54,3,14,Responded,2
+1166,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,1,3,Did Not Respond,3
+1171,M,1,0,72928.2,N,S,CC,Budget,High Income Families,41,196.22,2,4,Did Not Respond,3
+1172,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,1,13,Did Not Respond,1
+1178,M,1,0,65000,Y,S,Auto,FreeLocal,Married No Kids,27,115.66,1,6,Responded,4
+1182,M,3,2,1406.05,Y,M,CC,Budget,High Income Families,5,15.17,1,6,Did Not Respond,1
+1184,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,3,11,Did Not Respond,3
+1185,F,3,2,76231.9,N,S,Auto,FreeLocal,Married No Kids,31,150.75,3,1,Did Not Respond,4
+1190,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,1,7,Did Not Respond,4
+1193,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+1198,M,2,1,63437.3,N,M,CC,Budget,High Income Families,3,10.94,4,0,Responded,4
+1202,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,4,14,Did Not Respond,4
+1204,M,2,1,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,3,6,Responded,3
+1205,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,1,8,Did Not Respond,1
+1206,F,2,1,12686,N,S,Auto,Budget,Married No Kids,21,80.64,4,12,Responded,5
+1214,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,1,5,Did Not Respond,4
+1215,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,1,15,Responded,3
+1216,M,1,0,60102.7,N,M,CH,FreeLocal,Low Value and No Kids,14,62.44,3,5,Responded,3
+1218,F,3,2,17888.7,N,M,CC,Budget,High Income Families,72,332.46,2,15,Did Not Respond,4
+1219,F,2,1,12526.3,N,S,CC,FreeLocal,High Income Families,8,28.86,3,6,Responded,4
+1222,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Responded,4
+1225,M,1,0,78572.2,Y,M,CC,FreeLocal,High Income Families,10,29.28,1,11,Responded,3
+1226,M,2,1,3933.74,N,M,CC,Budget,High Income Families,12,47.91,2,5,Did Not Respond,1
+1227,F,3,2,48238.8,N,M,CC,FreeLocal,High Income Families,38,168.03,1,12,Did Not Respond,2
+1229,F,1,0,28770.9,N,M,CH,FreeLocal,Low Value and No Kids,10,16.27,3,14,Responded,1
+1230,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,4,0,Did Not Respond,4
+1231,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,1,13,Did Not Respond,1
+1233,F,3,2,76791.2,N,S,CC,Budget,High Income Families,9,23,3,10,Did Not Respond,3
+1237,F,2,1,30763.8,Y,S,CC,Budget,High Income Families,11,35.85,3,11,Responded,1
+1238,F,3,2,3193.6,N,M,CH,Budget,Low Value and No Kids,24,114.62,3,2,Did Not Respond,4
+1239,M,2,1,69680.9,N,M,CC,FreeLocal,High Income Families,8,32.12,2,4,Did Not Respond,1
+1242,F,1,0,77000,N,M,Auto,FreeLocal,Married No Kids,24,90.18,4,15,Did Not Respond,4
+1243,M,1,0,2056.06,Y,D,Auto,Budget,Married No Kids,12,27.75,3,12,Did Not Respond,1
+1244,F,3,2,7776.6,N,M,CC,FreeLocal,High Income Families,19,68.33,1,13,Did Not Respond,2
+1245,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,4,8,Did Not Respond,3
+1246,M,1,0,78000,N,S,CC,Budget,High Income Families,4,8.49,4,2,Responded,3
+1248,F,3,2,69343.3,N,M,CC,FreeLocal,High Income Families,4,15.54,1,3,Did Not Respond,3
+1249,F,1,0,83287,N,M,Auto,Budget,Married No Kids,5,23.89,3,0,Did Not Respond,3
+1252,F,1,0,14932.5,N,M,CC,Budget,High Income Families,2,6.5,3,2,Did Not Respond,5
+1253,F,1,0,27498.1,N,S,CC,Budget,High Income Families,2,9.88,2,1,Did Not Respond,5
+1255,F,3,2,21419.9,N,M,CC,FreeLocal,High Income Families,26,103.12,4,13,Did Not Respond,4
+1256,F,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,3,3,Did Not Respond,1
+1257,F,2,1,68000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,1,3,Did Not Respond,3
+1258,F,3,2,50561.3,N,M,CH,Budget,Low Value and No Kids,26,113.31,3,8,Did Not Respond,4
+1260,F,3,2,23464,Y,S,CC,Budget,High Income Families,13,41.71,3,11,Responded,4
+1261,F,3,2,194.57,N,M,CC,FreeLocal,High Income Families,13,38.95,4,14,Did Not Respond,3
+1262,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,1,9,Did Not Respond,4
+1263,M,1,0,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,3,7,Responded,3
+1264,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,3,5,Did Not Respond,3
+1265,F,2,1,85275,N,D,Auto,FreeLocal,Married No Kids,35,151.61,3,11,Responded,5
+1266,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,3,8,Did Not Respond,4
+1267,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,2,7,Did Not Respond,4
+1268,F,3,2,94026.8,Y,M,CC,FreeLocal,High Income Families,7,10.62,3,13,Did Not Respond,2
+1270,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,3,13,Did Not Respond,3
+1271,M,1,0,80000,N,M,CC,FreeLocal,High Income Families,7,26.69,1,2,Responded,4
+1273,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,4,9,Did Not Respond,4
+1274,F,3,2,63234.5,Y,M,CH,FreeLocal,Low Value and No Kids,0,1.16,4,0,Did Not Respond,4
+1275,F,3,2,46945,N,S,CC,Budget,High Income Families,10,26.01,2,9,Did Not Respond,5
+1276,M,1,0,3911.9,N,M,CC,Budget,High Income Families,8,25.14,1,3,Did Not Respond,4
+1277,F,1,0,71816.1,Y,M,CC,FreeLocal,High Income Families,10,25.26,4,13,Did Not Respond,4
+1278,F,3,2,18296.4,Y,M,CC,FreeLocal,High Income Families,2,10.39,1,0,Did Not Respond,3
+1279,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,2,11,Responded,1
+1280,F,2,1,71502.5,N,M,CC,FreeLocal,High Income Families,0,0.68,2,0,Did Not Respond,4
+1281,F,2,1,66000,N,S,Auto,FreeLocal,Married No Kids,17,63.29,4,11,Responded,4
+1282,F,2,1,95011.5,N,M,CC,FreeLocal,High Income Families,1,2.83,2,0,Did Not Respond,4
+1283,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,2,2,Did Not Respond,4
+1284,F,3,2,52957,Y,M,CH,FreeLocal,Low Value and No Kids,30,125.52,4,13,Did Not Respond,3
+1285,F,3,2,86747.1,N,S,Auto,Budget,Married No Kids,11,37.24,3,10,Did Not Respond,5
+1286,F,1,0,57942.4,N,M,CH,Budget,Low Value and No Kids,25,105.33,3,10,Did Not Respond,3
+1287,F,2,1,87404.6,N,M,Auto,Budget,Married No Kids,32,139.2,4,11,Did Not Respond,4
+1288,M,3,2,20919,N,S,CC,FreeLocal,High Income Families,33,153.36,1,3,Did Not Respond,4
+1289,F,3,2,85394,Y,M,Auto,Budget,Married No Kids,7,14.38,4,10,Did Not Respond,1
+1290,F,1,0,2121.36,N,S,CC,FreeLocal,High Income Families,8,36.78,1,1,Responded,3
+1291,F,3,2,63566.1,Y,M,CH,Budget,Low Value and No Kids,15,65.09,3,4,Did Not Respond,4
+1292,F,1,0,52089.6,N,M,CC,FreeLocal,High Income Families,5,13.05,2,5,Did Not Respond,3
+1293,F,2,1,58328.8,N,S,CC,FreeLocal,High Income Families,26,123.88,3,4,Did Not Respond,5
+1294,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+1295,F,3,2,25738.4,N,M,CH,Budget,Low Value and No Kids,10,19.2,2,10,Did Not Respond,3
+1296,F,3,2,82644.2,Y,M,CC,FreeLocal,High Income Families,8,19.88,2,11,Did Not Respond,2
+1297,F,2,1,27783.6,N,S,CC,FreeLocal,High Income Families,6,18.07,2,2,Responded,1
+1298,F,2,1,86252.8,Y,S,CC,Budget,High Income Families,9,43.97,4,1,Did Not Respond,4
+1299,F,2,1,38738.3,N,M,CC,Budget,High Income Families,12,48.18,1,6,Did Not Respond,4
+1300,F,3,2,60485.5,N,M,Auto,Budget,Married No Kids,8,28.7,4,6,Did Not Respond,3
+1301,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,4,9,Responded,4
+1302,F,1,0,55000,N,M,CC,FreeLocal,High Income Families,6,28.66,4,0,Responded,3
+1303,F,3,2,809.43,Y,M,CH,FreeLocal,Low Value and No Kids,1,2.89,1,0,Responded,2
+1304,M,2,1,76529.8,N,S,CC,Budget,High Income Families,9,20.05,2,9,Responded,4
+1305,F,3,2,34577.7,N,M,CH,Budget,Low Value and No Kids,29,116.57,2,15,Did Not Respond,4
+1306,M,1,0,23000,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Responded,4
+1307,F,1,0,77000,N,M,Auto,Budget,Married No Kids,15,45.46,1,14,Did Not Respond,4
+1308,F,3,2,19008.4,Y,S,CC,FreeLocal,High Income Families,30,137.19,1,5,Responded,4
+1309,F,1,0,98056.3,N,M,Auto,FreeLocal,Married No Kids,30,126.96,3,12,Did Not Respond,4
+1310,M,1,0,73400,Y,M,CH,Budget,Low Value and No Kids,0,2.21,1,0,Responded,4
+1311,F,1,0,53432.2,Y,M,CH,FreeLocal,Low Value and No Kids,19,83.48,1,6,Did Not Respond,4
+1312,M,1,0,78894.2,N,M,CH,Budget,Low Value and No Kids,9,43.23,3,1,Responded,4
+1313,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,3,10,Responded,1
+1314,M,1,0,62797.9,N,M,CH,Budget,Low Value and No Kids,14,55.48,3,4,Responded,4
+1315,M,2,1,71329.9,Y,S,CC,Budget,High Income Families,13,45.92,1,7,Responded,3
+1316,F,1,0,91498.9,N,S,CC,Budget,High Income Families,9,25.35,2,11,Did Not Respond,4
+1317,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,4,5,Responded,3
+1318,F,2,1,33084.3,Y,S,CH,Budget,Low Value and No Kids,25,105.28,1,10,Did Not Respond,3
+1319,F,1,0,20913.6,N,S,CC,FreeLocal,High Income Families,19,65.77,1,11,Responded,4
+1320,M,1,0,62724.5,Y,M,Auto,FreeLocal,Married No Kids,17,52.4,4,11,Did Not Respond,4
+1321,F,2,1,49553.9,Y,S,CC,FreeLocal,High Income Families,16,48.6,1,15,Did Not Respond,3
+1322,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,4,6,Responded,3
+1323,F,1,0,57255.4,N,M,CC,FreeLocal,High Income Families,21,78.37,1,14,Responded,2
+1324,F,2,1,71941.5,Y,S,CH,FreeLocal,Low Value and No Kids,21,87.88,3,4,Did Not Respond,3
+1325,F,3,2,72583,Y,S,CH,FreeLocal,Low Value and No Kids,8,27.12,2,3,Responded,1
+1326,M,3,2,67339.8,N,M,CC,FreeLocal,High Income Families,16,48.69,3,14,Did Not Respond,1
+1327,F,2,1,88759.5,N,M,CC,FreeLocal,High Income Families,29,114.62,2,15,Did Not Respond,4
+1328,M,2,1,75799.9,N,M,CC,FreeLocal,High Income Families,19,64.8,2,11,Responded,3
+1329,F,3,2,15688.5,N,S,CC,Budget,High Income Families,4,8.03,1,7,Responded,4
+1330,F,1,0,43382.3,N,S,CH,FreeLocal,Low Value and No Kids,28,99.94,4,15,Responded,1
+1331,M,1,0,2805.01,Y,S,CC,FreeLocal,High Income Families,8,11.68,1,10,Responded,1
+1332,F,1,0,5185.31,N,S,CC,FreeLocal,High Income Families,11,30.51,3,8,Responded,4
+1333,F,1,0,42000,N,S,CC,Budget,High Income Families,27,108.44,2,13,Responded,1
+1334,F,1,0,38000,N,S,CH,Budget,Low Value and No Kids,21,75.27,2,11,Responded,1
+1335,F,2,1,81641.2,Y,M,CC,FreeLocal,High Income Families,20,78.21,2,7,Responded,1
+1336,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,4,4,Did Not Respond,3
+1337,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,3,11,Responded,2
+1339,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,2,14,Responded,3
+1341,M,1,0,70908.7,N,M,CC,FreeLocal,High Income Families,11,43.2,1,4,Responded,3
+1342,M,1,0,94928.3,N,S,CC,FreeLocal,High Income Families,19,73.74,1,7,Responded,3
+1344,F,3,2,50622.3,N,M,Auto,FreeLocal,Married No Kids,23,90.19,3,10,Did Not Respond,3
+1346,M,1,0,78000,Y,M,CH,FreeLocal,Low Value and No Kids,8,18.84,2,8,Responded,3
+1350,M,2,1,78000,Y,M,CH,Budget,Low Value and No Kids,18,62.81,2,15,Responded,4
+1352,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+1353,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,4,9,Did Not Respond,4
+1355,M,2,1,80000,N,M,CC,Budget,High Income Families,1,3.22,2,0,Did Not Respond,3
+1356,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,2,9,Responded,1
+1357,F,1,0,73069.1,Y,M,Auto,Budget,Married No Kids,2,10.22,4,0,Did Not Respond,4
+1358,M,1,0,80000,Y,M,CC,FreeLocal,High Income Families,8,25.62,4,8,Responded,4
+1359,F,3,2,8032.16,N,M,CC,FreeLocal,High Income Families,18,59.08,1,15,Did Not Respond,3
+1360,F,1,0,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,1,9,Did Not Respond,3
+1361,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,3,13,Responded,1
+1362,F,1,0,83287,N,S,Auto,Budget,Married No Kids,43,208.19,1,0,Did Not Respond,4
+1363,F,1,0,92564.1,Y,S,Auto,FreeLocal,Married No Kids,15,51.68,1,12,Did Not Respond,3
+1365,M,1,0,70000,Y,S,CH,Budget,Low Value and No Kids,18,82.19,3,2,Responded,3
+1367,F,3,2,48322.5,Y,M,CC,FreeLocal,High Income Families,10,43.6,2,3,Did Not Respond,3
+1369,M,3,2,78373.5,N,S,Auto,Budget,Married No Kids,40,184.02,2,3,Did Not Respond,2
+1370,F,3,2,81913.8,Y,M,CC,FreeLocal,High Income Families,11,46.33,2,3,Did Not Respond,3
+1373,F,1,0,919.93,N,S,CH,Budget,Low Value and No Kids,24,93.42,2,14,Responded,3
+1374,F,3,2,69486.8,N,M,CC,Budget,High Income Families,3,9.39,1,4,Responded,2
+1375,F,3,2,24482.8,N,M,CH,Budget,Low Value and No Kids,0,2,1,0,Did Not Respond,2
+1377,F,1,0,14573.6,N,M,CC,Budget,High Income Families,53,236.97,4,13,Did Not Respond,5
+1378,F,3,2,92103.8,N,M,CC,Budget,High Income Families,3,7.43,2,4,Did Not Respond,4
+1379,F,3,2,8392.14,Y,S,CH,Budget,Low Value and No Kids,17,54.8,3,13,Responded,2
+1380,F,1,0,17138.2,N,S,CC,FreeLocal,High Income Families,21,84.67,4,10,Responded,4
+1382,F,3,2,47010.1,N,M,CC,Budget,High Income Families,33,164.76,1,1,Did Not Respond,4
+1384,F,2,1,67239.4,N,D,Auto,FreeLocal,Married No Kids,13,53.81,4,6,Did Not Respond,3
+1385,M,2,1,69406.7,Y,M,CC,FreeLocal,High Income Families,28,128.1,4,3,Responded,3
+1387,F,3,2,83259.3,N,M,CC,Budget,High Income Families,1,4.46,1,0,Did Not Respond,3
+1394,F,3,2,2185.6,N,M,CH,Budget,Low Value and No Kids,6,20.95,3,4,Did Not Respond,4
+1396,M,2,1,76511.3,N,M,CC,FreeLocal,High Income Families,9,17.37,3,11,Responded,4
+1398,F,2,1,35000,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,3,14,Responded,1
+1399,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,3,0,Responded,3
+1401,F,3,2,36660.9,Y,M,CH,Budget,Low Value and No Kids,1,3.36,3,0,Did Not Respond,3
+1403,F,3,2,68462.8,N,M,CC,FreeLocal,High Income Families,18,60.51,4,12,Did Not Respond,2
+1406,F,3,2,72841.3,N,M,CC,Budget,High Income Families,17,72.16,3,5,Did Not Respond,3
+1407,F,3,2,63670.8,Y,M,Auto,FreeLocal,Married No Kids,16,51.47,2,14,Did Not Respond,3
+1408,M,1,0,66666,N,S,CC,Budget,High Income Families,14,35.73,3,15,Responded,5
+1409,F,2,1,77000,Y,S,Auto,Budget,Married No Kids,24,100.08,2,10,Did Not Respond,3
+1410,M,1,0,12387.6,N,M,Auto,FreeLocal,Married No Kids,19,65.93,2,1,Did Not Respond,4
+1412,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,2,10,Did Not Respond,5
+1413,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,3,9,Did Not Respond,3
+1415,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,3,5,Responded,3
+1416,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,4,11,Did Not Respond,2
+1418,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,3,4,Did Not Respond,4
+1422,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,3,10,Responded,4
+1425,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,2,8,Did Not Respond,3
+1428,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,1,9,Responded,2
+1429,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,4,4,Did Not Respond,2
+1431,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,2,6,Did Not Respond,2
+1432,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,1,1,Did Not Respond,3
+1438,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,1,5,Did Not Respond,2
+1442,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,4,3,Did Not Respond,1
+1443,M,2,1,3960.5,N,S,Auto,FreeLocal,Married No Kids,19,66.35,4,15,Responded,1
+1445,M,1,0,60101.1,Y,M,CH,FreeLocal,Low Value and No Kids,32,124.14,4,14,Did Not Respond,4
+1446,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,2,0,Did Not Respond,2
+1447,F,2,1,40120,N,M,CC,FreeLocal,High Income Families,35,160.42,1,15,Responded,1
+1448,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,3,1,Did Not Respond,3
+1450,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,3,11,Did Not Respond,1
+1451,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,1,1,Did Not Respond,2
+1452,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,3,2,Responded,4
+1453,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,2,10,Did Not Respond,4
+1455,F,1,0,40120,N,S,CC,Budget,High Income Families,53,262.91,3,19,Did Not Respond,1
+1460,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,3,11,Did Not Respond,3
+1462,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,3,6,Responded,4
+1463,F,1,0,40120,Y,S,CC,FreeLocal,High Income Families,22,99.73,4,16,Did Not Respond,1
+1464,F,2,1,14085.5,N,M,Auto,FreeLocal,Married No Kids,10,26.78,3,20,Did Not Respond,1
+1465,F,1,0,32962.6,N,S,CC,Budget,High Income Families,34,154.77,4,30,Did Not Respond,1
+1466,F,1,0,42000,N,S,CC,Budget,High Income Families,13,61.44,4,22,Did Not Respond,1
+1467,F,3,2,43000,N,S,Auto,Budget,Married No Kids,8,35.73,1,20,Responded,1
+1468,F,2,1,77726.4,N,D,Auto,Budget,Married No Kids,5,9.51,2,7,Did Not Respond,4
+1469,F,3,2,42000,N,S,CC,FreeLocal,High Income Families,13,38.18,4,30,Did Not Respond,1
+1470,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,1,14,Did Not Respond,3
+1474,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,2,7,Did Not Respond,3
+1479,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,2,11,Did Not Respond,2
+1480,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,4,15,Responded,3
+1482,F,2,1,2929.13,N,S,CH,Budget,Low Value and No Kids,20,88.23,3,7,Responded,4
+1484,F,3,2,41876.6,Y,M,CC,FreeLocal,High Income Families,28,132.65,4,3,Did Not Respond,3
+1485,M,1,0,96223.4,Y,M,CC,FreeLocal,High Income Families,4,5.73,2,6,Responded,5
+1486,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,3,2,Did Not Respond,4
+1487,M,1,0,69168.4,Y,M,CC,Budget,High Income Families,47,214.73,4,7,Responded,4
+1488,M,2,1,92148.5,Y,M,CC,Budget,High Income Families,23,100.9,2,1,Did Not Respond,2
+1489,M,1,0,96681,Y,M,CC,Budget,High Income Families,15,40.92,2,1,Did Not Respond,1
+1490,M,1,0,62705.9,Y,S,CC,FreeLocal,High Income Families,7,6.81,2,1,Did Not Respond,2
+1491,M,1,0,80221.2,N,S,Auto,FreeLocal,Married No Kids,10,49.56,2,1,Did Not Respond,2
+1492,M,1,0,84479.2,N,S,CC,FreeLocal,High Income Families,11,43.01,2,1,Did Not Respond,2
+1493,F,3,2,64977.4,N,M,CC,FreeLocal,High Income Families,9,17.66,2,14,Did Not Respond,2
+1494,F,1,0,77994,N,M,CH,FreeLocal,Low Value and No Kids,20,89.62,1,6,Did Not Respond,3
+1495,M,3,2,90103.7,N,M,CC,Budget,High Income Families,13,45.34,2,6,Did Not Respond,2
+1496,F,1,0,59008.4,Y,M,CC,Budget,High Income Families,6,18.73,1,6,Did Not Respond,2
+1497,M,3,2,5265.35,N,M,Auto,Budget,Married No Kids,6,23.46,4,1,Did Not Respond,4
+1498,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Did Not Respond,1
+1499,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,1,11,Responded,3
+1500,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Did Not Respond,3
+1501,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,2,10,Did Not Respond,3
+1502,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,1,2,Responded,4
+1503,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+1505,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,4,10,Did Not Respond,2
+1508,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,3,11,Did Not Respond,1
+1512,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,4,7,Did Not Respond,3
+1515,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,3,0,Did Not Respond,3
+1516,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,3,14,Did Not Respond,3
+1517,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+1518,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,1,14,Responded,1
+1519,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,2,15,Did Not Respond,4
+1521,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+1522,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,2,7,Did Not Respond,4
+1523,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,2,12,Did Not Respond,4
+1524,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,4,8,Did Not Respond,3
+1528,M,1,0,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,1,8,Did Not Respond,3
+1529,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,4,4,Did Not Respond,3
+1530,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,4,11,Did Not Respond,3
+1532,M,1,0,90321.6,N,S,CC,FreeLocal,High Income Families,2,11.52,3,0,Responded,4
+1533,M,1,0,90478.6,N,S,CH,FreeLocal,Low Value and No Kids,31,136.47,2,9,Did Not Respond,4
+1534,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,1,4,Did Not Respond,4
+1537,F,2,1,42000,N,S,CC,Budget,High Income Families,46,206.08,2,12,Responded,1
+1539,M,1,0,9780.66,N,M,CC,FreeLocal,High Income Families,4,11.32,2,1,Did Not Respond,1
+1542,M,3,2,29616,N,M,CH,FreeLocal,Low Value and No Kids,15,45.5,1,15,Did Not Respond,3
+1544,M,1,0,19732.8,N,M,CC,FreeLocal,High Income Families,9,22.44,4,12,Did Not Respond,3
+1545,M,2,1,41690.5,Y,S,CC,FreeLocal,High Income Families,6,28.95,2,1,Did Not Respond,1
+1547,M,3,2,96.33,N,S,CC,Budget,High Income Families,12,32.88,4,13,Did Not Respond,4
+1550,F,3,2,52004.8,N,M,CH,Budget,Low Value and No Kids,6,23.11,2,3,Did Not Respond,1
+1553,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+1554,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,2,13,Did Not Respond,5
+1557,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,1,10,Did Not Respond,4
+1558,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,1,5,Did Not Respond,3
+1559,M,1,0,20078,N,D,CC,Budget,High Income Families,3,6.33,2,5,Did Not Respond,2
+1560,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,2,9,Did Not Respond,2
+1565,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,2,11,Responded,1
+1571,F,1,0,78851.3,N,S,CC,FreeLocal,High Income Families,6,28.66,4,0,Responded,3
+1572,F,2,1,17540.7,Y,S,Auto,Budget,Married No Kids,7,13.45,4,11,Responded,4
+1573,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Did Not Respond,4
+1574,F,3,2,28220.8,N,S,CC,FreeLocal,High Income Families,8,12.46,4,13,Responded,3
+1576,F,1,0,28589.1,N,S,CC,FreeLocal,High Income Families,20,87.09,2,7,Did Not Respond,1
+1578,F,3,2,5237.63,N,M,CC,Budget,High Income Families,16,56.64,3,7,Did Not Respond,3
+1581,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+1584,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,3,7,Responded,3
+1588,F,3,2,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+1589,F,2,1,57063,Y,M,CH,Budget,Low Value and No Kids,20,81.3,4,8,Did Not Respond,4
+1590,F,3,2,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+1591,F,1,0,45612.9,N,S,CC,Budget,High Income Families,65,311.29,4,6,Did Not Respond,1
+1596,F,2,1,7737.94,N,S,CC,FreeLocal,High Income Families,12,50.84,3,6,Responded,3
+1597,M,3,2,65000,N,S,CH,Budget,Low Value and No Kids,63,293.24,1,11,Responded,3
+1598,F,3,2,45287.6,Y,M,CC,Budget,High Income Families,1,2.97,3,0,Did Not Respond,2
+1599,F,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,1,6,Responded,2
+1601,F,2,1,16326.7,N,S,CC,FreeLocal,High Income Families,0,1.34,3,0,Responded,3
+1604,F,3,2,9559.78,N,S,CC,FreeLocal,High Income Families,16,59.59,2,9,Responded,4
+1607,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+1609,F,3,2,83284.1,Y,M,Auto,FreeLocal,Married No Kids,7,9.04,3,13,Did Not Respond,2
+1610,M,2,1,39229.1,N,M,CC,Budget,High Income Families,9,13.53,4,14,Responded,2
+1611,F,1,0,68427.4,N,S,Auto,FreeLocal,Married No Kids,15,50.05,2,12,Did Not Respond,3
+1613,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,4,5,Responded,3
+1615,F,1,0,98716.3,N,S,CC,FreeLocal,High Income Families,9,13.92,4,10,Responded,4
+1616,F,3,2,66182.7,Y,S,Auto,Budget,Married No Kids,12,47.17,2,6,Did Not Respond,4
+1617,F,3,2,84789.3,N,M,CH,FreeLocal,Low Value and No Kids,7,10.45,4,7,Responded,3
+1619,F,3,2,35976.5,Y,M,Auto,FreeLocal,Married No Kids,10,31.78,4,9,Responded,3
+1620,F,1,0,32703.1,Y,M,CC,Budget,High Income Families,15,56.09,4,8,Did Not Respond,5
+1622,F,3,2,8204.72,N,M,CH,FreeLocal,Low Value and No Kids,8,24.19,1,8,Did Not Respond,4
+1623,M,2,1,97180.4,N,M,Auto,FreeLocal,Married No Kids,13,45.66,2,4,Did Not Respond,2
+1625,F,3,2,38280,N,S,Auto,FreeLocal,Married No Kids,17,74.97,4,6,Responded,2
+1626,M,1,0,64136.6,Y,S,CC,FreeLocal,High Income Families,28,125.15,1,8,Responded,4
+1628,F,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,3,12,Responded,4
+1630,F,1,0,25285.5,N,S,CC,FreeLocal,High Income Families,4,11.93,2,5,Responded,4
+1631,F,3,2,77551.1,Y,M,CC,Budget,High Income Families,12,41.89,2,10,Did Not Respond,2
+1632,F,1,0,38538.4,N,M,CC,FreeLocal,High Income Families,10,16.48,1,11,Responded,1
+1639,M,1,0,92881.8,N,M,CC,FreeLocal,High Income Families,19,85.29,2,1,Did Not Respond,1
+1640,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,3,15,Responded,1
+1644,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,2,11,Responded,4
+1645,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+1646,M,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,1,Did Not Respond,4
+1647,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,2,13,Responded,4
+1650,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,1,14,Responded,3
+1653,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,4,11,Did Not Respond,4
+1656,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,2,15,Did Not Respond,3
+1657,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,4,14,Responded,1
+1660,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,3,2,Did Not Respond,1
+1663,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,4,11,Responded,4
+1669,M,3,2,42750.3,Y,M,Auto,Budget,Married No Kids,27,112.4,1,10,Responded,3
+1671,F,3,2,2842.55,N,S,Auto,Budget,Married No Kids,0,0.79,3,0,Responded,3
+1672,M,3,2,22358.1,N,M,CC,Budget,High Income Families,6,12.19,1,8,Did Not Respond,4
+1674,M,1,0,47870.8,Y,M,CC,FreeLocal,High Income Families,3,12.48,2,4,Did Not Respond,2
+1675,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,4,11,Did Not Respond,5
+1676,F,1,0,7325.5,N,S,CC,FreeLocal,High Income Families,38,161.54,2,14,Responded,2
+1677,M,2,1,63900.9,N,M,CC,Budget,High Income Families,9,39.04,2,4,Did Not Respond,2
+1678,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,3,3,Did Not Respond,3
+1680,M,2,1,5252.29,N,M,Auto,Budget,Married No Kids,4,17.08,2,1,Did Not Respond,1
+1684,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,2,13,Did Not Respond,1
+1690,M,1,0,69000,Y,S,CH,FreeLocal,Low Value and No Kids,27,115.66,1,6,Responded,3
+1694,M,3,2,1406.05,Y,M,CC,Budget,High Income Families,5,15.17,2,6,Did Not Respond,1
+1696,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,3,11,Did Not Respond,4
+1697,F,3,2,76231.9,N,S,Auto,FreeLocal,Married No Kids,31,150.75,3,1,Did Not Respond,4
+1702,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,3,7,Responded,4
+1705,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+1710,M,2,1,63437.3,N,M,CC,Budget,High Income Families,3,10.94,4,0,Responded,4
+1714,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,4,14,Did Not Respond,4
+1716,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,3,6,Responded,3
+1717,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,3,8,Did Not Respond,1
+1718,F,2,1,12686,N,S,Auto,Budget,Married No Kids,21,80.64,3,12,Responded,5
+1726,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,3,5,Responded,4
+1727,M,2,1,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,4,15,Responded,3
+1728,M,1,0,60102.7,N,M,CH,FreeLocal,Low Value and No Kids,14,62.44,4,5,Responded,3
+1730,F,3,2,17888.7,N,M,CC,Budget,High Income Families,72,332.46,4,15,Did Not Respond,3
+1731,F,2,1,12526.3,N,S,CC,FreeLocal,High Income Families,8,28.86,2,6,Responded,4
+1734,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,2,6,Responded,4
+1737,M,1,0,78572.2,Y,M,CC,FreeLocal,High Income Families,10,29.28,2,11,Responded,3
+1739,F,3,2,48238.8,N,M,CC,FreeLocal,High Income Families,38,168.03,1,12,Did Not Respond,2
+1741,F,1,0,28770.9,N,M,CH,FreeLocal,Low Value and No Kids,10,16.27,4,14,Did Not Respond,1
+1742,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,2,0,Did Not Respond,4
+1743,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,3,13,Did Not Respond,1
+1745,F,3,2,76791.2,N,S,CC,Budget,High Income Families,9,23,3,10,Did Not Respond,4
+1749,F,1,0,30763.8,Y,S,CC,Budget,High Income Families,11,35.85,2,11,Responded,1
+1750,F,3,2,3193.6,N,M,CH,Budget,Low Value and No Kids,24,114.62,2,2,Did Not Respond,4
+1751,M,2,1,69680.9,N,M,CC,FreeLocal,High Income Families,8,32.12,2,4,Did Not Respond,1
+1754,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,3,15,Did Not Respond,5
+1755,M,1,0,2056.06,Y,S,Auto,Budget,Married No Kids,12,27.75,2,12,Responded,1
+1756,F,3,2,7776.6,N,M,CC,FreeLocal,High Income Families,19,68.33,4,13,Did Not Respond,2
+1757,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,3,8,Did Not Respond,3
+1758,M,1,0,68000,N,S,CC,Budget,High Income Families,4,8.49,4,2,Responded,4
+1760,M,1,0,69343.3,N,M,CC,FreeLocal,High Income Families,4,15.54,4,3,Responded,3
+1764,F,1,0,14932.5,N,M,CC,Budget,High Income Families,2,6.5,4,2,Did Not Respond,3
+1765,F,1,0,27498.1,N,S,CC,Budget,High Income Families,2,9.88,1,1,Did Not Respond,3
+1767,M,3,2,21419.9,N,M,CC,FreeLocal,High Income Families,26,103.12,1,13,Did Not Respond,4
+1768,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,4,3,Did Not Respond,1
+1769,F,2,1,78000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,4,3,Did Not Respond,4
+1770,F,3,2,50561.3,N,M,CH,Budget,Low Value and No Kids,26,113.31,4,8,Did Not Respond,3
+1772,F,3,2,23464,Y,S,CC,Budget,High Income Families,13,41.71,1,11,Responded,4
+1773,F,3,2,194.57,N,M,CC,FreeLocal,High Income Families,13,38.95,2,14,Did Not Respond,5
+1774,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,2,9,Did Not Respond,5
+1775,M,1,0,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,1,7,Responded,4
+1776,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,1,5,Did Not Respond,4
+1777,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,4,11,Did Not Respond,3
+1778,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,4,8,Did Not Respond,4
+1779,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,1,7,Did Not Respond,4
+1780,F,3,2,94026.8,Y,M,CC,FreeLocal,High Income Families,7,10.62,4,13,Did Not Respond,2
+1782,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,4,13,Responded,3
+1783,M,1,0,68000,N,M,CC,FreeLocal,High Income Families,7,26.69,4,2,Responded,3
+1785,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,1,9,Did Not Respond,3
+1786,F,3,2,63234.5,Y,M,CH,FreeLocal,Low Value and No Kids,0,1.16,1,0,Did Not Respond,4
+1788,M,1,0,3911.9,N,M,CC,Budget,High Income Families,8,25.14,2,3,Responded,3
+1790,F,3,2,18296.4,Y,M,CC,FreeLocal,High Income Families,2,10.39,3,0,Did Not Respond,3
+1791,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,1,11,Responded,1
+1796,F,3,2,52957,Y,M,CH,FreeLocal,Low Value and No Kids,30,125.52,4,13,Did Not Respond,3
+1797,F,3,2,86747.1,N,S,Auto,Budget,Married No Kids,11,37.24,1,10,Did Not Respond,5
+1799,F,2,1,87404.6,N,M,Auto,Budget,Married No Kids,32,139.2,4,11,Did Not Respond,4
+1801,F,3,2,85394,Y,M,Auto,Budget,Married No Kids,7,14.38,1,10,Did Not Respond,1
+1802,F,1,0,2121.36,N,S,CC,FreeLocal,High Income Families,8,36.78,4,1,Responded,3
+1803,F,3,2,63566.1,Y,M,CH,Budget,Low Value and No Kids,15,65.09,3,4,Did Not Respond,4
+1806,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+1807,F,3,2,25738.4,N,M,CH,Budget,Low Value and No Kids,10,19.2,4,10,Responded,3
+1808,F,3,2,82644.2,Y,M,CC,FreeLocal,High Income Families,8,19.88,4,11,Did Not Respond,2
+1809,F,2,1,27783.6,N,S,CC,FreeLocal,High Income Families,6,18.07,2,2,Responded,1
+1812,F,3,2,60485.5,N,M,Auto,Budget,Married No Kids,8,28.7,1,6,Did Not Respond,3
+1815,F,3,2,809.43,Y,M,CH,FreeLocal,Low Value and No Kids,1,2.89,3,0,Did Not Respond,2
+1816,M,2,1,76529.8,N,S,CC,Budget,High Income Families,9,20.05,1,9,Responded,4
+1817,F,3,2,34577.7,N,M,CH,Budget,Low Value and No Kids,29,116.57,3,15,Did Not Respond,4
+1820,F,3,2,19008.4,Y,S,CC,FreeLocal,High Income Families,30,137.19,2,5,Did Not Respond,4
+1821,F,1,0,98056.3,N,M,Auto,FreeLocal,Married No Kids,30,126.96,4,12,Did Not Respond,4
+1822,M,1,0,80000,Y,M,CH,Budget,Low Value and No Kids,0,2.21,1,0,Responded,3
+1824,M,1,0,78894.2,N,M,CH,Budget,Low Value and No Kids,9,43.23,2,1,Did Not Respond,2
+1825,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,1,10,Responded,1
+1826,M,2,1,62797.9,N,M,CH,Budget,Low Value and No Kids,14,55.48,1,4,Responded,4
+1827,M,2,1,71329.9,Y,S,CC,Budget,High Income Families,13,45.92,4,7,Did Not Respond,3
+1831,F,1,0,20913.6,N,S,CC,FreeLocal,High Income Families,19,65.77,3,11,Responded,4
+1834,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,2,6,Responded,3
+1838,M,3,2,67339.8,N,M,CC,FreeLocal,High Income Families,16,48.69,2,14,Did Not Respond,1
+1840,M,2,1,75799.9,N,M,CC,FreeLocal,High Income Families,19,64.8,2,11,Responded,3
+1841,F,3,2,15688.5,N,S,CC,Budget,High Income Families,4,8.03,3,7,Responded,4
+1842,F,1,0,43382.3,N,S,CH,FreeLocal,Low Value and No Kids,28,99.94,2,15,Responded,1
+1844,F,1,0,5185.31,N,S,CC,FreeLocal,High Income Families,11,30.51,1,8,Responded,4
+1845,F,2,1,35089,N,S,CC,Budget,High Income Families,27,108.44,2,13,Responded,1
+1846,F,1,0,37000,N,S,CH,Budget,Low Value and No Kids,21,75.27,4,11,Responded,1
+1848,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,4,4,Did Not Respond,3
+1849,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,3,11,Did Not Respond,2
+1851,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Responded,3
+1853,M,2,1,70908.7,N,M,CC,FreeLocal,High Income Families,11,43.2,1,4,Responded,3
+1854,M,1,0,94928.3,N,S,CH,FreeLocal,Low Value and No Kids,19,73.74,1,7,Responded,3
+1856,F,3,2,50622.3,N,M,Auto,FreeLocal,Married No Kids,23,90.19,1,10,Did Not Respond,3
+1858,M,1,0,100020,Y,M,CC,FreeLocal,High Income Families,8,18.84,1,8,Responded,3
+1862,M,1,0,69000,Y,M,CH,Budget,Low Value and No Kids,18,62.81,3,15,Responded,4
+1863,M,2,1,37626,N,S,CH,Budget,Low Value and No Kids,17,71.55,2,4,Did Not Respond,2
+1865,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,4,9,Responded,4
+1867,M,2,1,120000,N,M,CC,Budget,High Income Families,1,3.22,3,0,Responded,5
+1868,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,2,9,Responded,1
+1869,F,1,0,73069.1,Y,M,Auto,Budget,Married No Kids,2,10.22,3,0,Did Not Respond,4
+1870,M,2,1,80000,Y,M,CC,FreeLocal,High Income Families,8,25.62,3,8,Responded,4
+1871,F,3,2,8032.16,N,M,CC,FreeLocal,High Income Families,18,59.08,1,15,Did Not Respond,3
+1872,F,2,1,93454.3,Y,D,Auto,FreeLocal,Married No Kids,9,25.18,4,9,Did Not Respond,3
+1873,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,2,13,Responded,1
+1875,F,1,0,92564.1,Y,S,Auto,FreeLocal,Married No Kids,15,51.68,3,12,Did Not Respond,3
+1879,F,3,2,48322.5,Y,M,CC,FreeLocal,High Income Families,10,43.6,1,3,Did Not Respond,3
+1882,F,3,2,81913.8,Y,M,CC,FreeLocal,High Income Families,11,46.33,3,3,Did Not Respond,3
+1885,F,1,0,919.93,N,S,CH,Budget,Low Value and No Kids,24,93.42,2,14,Responded,3
+1886,F,3,2,69486.8,N,M,CC,Budget,High Income Families,3,9.39,2,4,Did Not Respond,2
+1887,F,3,2,24482.8,N,M,CH,Budget,Low Value and No Kids,0,2,3,0,Did Not Respond,2
+1890,F,3,2,92103.8,N,M,CC,Budget,High Income Families,3,7.43,1,4,Did Not Respond,4
+1891,F,3,2,8392.14,Y,S,CH,Budget,Low Value and No Kids,17,54.8,1,13,Responded,2
+1892,F,1,0,17138.2,N,S,CC,FreeLocal,High Income Families,21,84.67,3,10,Responded,4
+1894,F,3,2,47010.1,N,M,CC,Budget,High Income Families,33,164.76,1,1,Did Not Respond,4
+1896,F,1,0,67239.4,N,S,Auto,FreeLocal,Married No Kids,13,53.81,1,6,Did Not Respond,3
+1897,M,2,1,69406.7,Y,M,CC,FreeLocal,High Income Families,28,128.1,4,3,Responded,3
+1899,F,3,2,83259.3,N,M,CC,Budget,High Income Families,1,4.46,2,0,Did Not Respond,3
+1902,M,2,1,20818.5,N,M,Auto,FreeLocal,Married No Kids,13,47.85,2,5,Did Not Respond,1
+1906,F,3,2,2185.6,N,M,CH,Budget,Low Value and No Kids,6,20.95,4,4,Did Not Respond,4
+1908,M,2,1,76511.3,N,M,CC,FreeLocal,High Income Families,9,17.37,2,11,Responded,4
+1910,F,2,1,6946.07,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,1,22,Did Not Respond,1
+1911,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,4,0,Did Not Respond,3
+1913,F,3,2,36660.9,Y,M,CH,Budget,Low Value and No Kids,1,3.36,2,0,Did Not Respond,3
+1915,F,3,2,68462.8,N,M,CC,FreeLocal,High Income Families,18,60.51,1,12,Did Not Respond,2
+1918,F,3,2,72841.3,N,M,CC,Budget,High Income Families,17,72.16,1,5,Did Not Respond,3
+1919,M,2,1,63670.8,Y,M,Auto,FreeLocal,Married No Kids,16,51.47,1,14,Responded,3
+1922,M,1,0,12387.6,N,M,Auto,FreeLocal,Married No Kids,19,65.93,2,2,Did Not Respond,4
+1924,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,3,10,Did Not Respond,5
+1925,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,2,9,Did Not Respond,3
+1927,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,2,5,Responded,3
+1928,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,4,11,Did Not Respond,2
+1930,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,4,4,Did Not Respond,4
+1934,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,3,10,Responded,4
+1937,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,1,8,Did Not Respond,3
+1940,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,4,9,Responded,2
+1941,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,1,4,Responded,2
+1943,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,1,6,Did Not Respond,2
+1944,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,3,1,Did Not Respond,3
+1950,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,1,5,Did Not Respond,2
+1954,M,1,0,78554.2,N,S,Auto,Budget,Married No Kids,7,23.03,2,3,Did Not Respond,1
+1955,M,2,1,3960.5,N,S,Auto,FreeLocal,Married No Kids,19,66.35,2,15,Responded,1
+1957,M,1,0,60101.1,Y,M,CH,FreeLocal,Low Value and No Kids,32,124.14,4,14,Responded,4
+1958,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,4,0,Did Not Respond,2
+1959,F,2,1,13829.4,N,M,CC,FreeLocal,High Income Families,35,160.42,2,21,Responded,1
+1960,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,2,1,Did Not Respond,3
+1962,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,3,11,Did Not Respond,1
+1963,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,4,1,Responded,2
+1964,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,1,2,Responded,4
+1965,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,3,10,Did Not Respond,4
+1967,F,1,0,30000,N,S,CC,Budget,High Income Families,53,262.91,1,23,Did Not Respond,1
+1972,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,3,11,Did Not Respond,3
+1974,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,4,6,Responded,4
+1975,M,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,3,4,Did Not Respond,2
+1976,F,2,1,14085.5,N,M,Auto,FreeLocal,Married No Kids,10,26.78,2,15,Responded,1
+1977,F,1,0,32962.6,N,S,CC,Budget,High Income Families,34,154.77,3,23,Responded,1
+1978,F,1,0,35000,N,S,CC,Budget,High Income Families,13,61.44,1,17,Responded,1
+1979,F,3,2,39000,N,S,Auto,Budget,Married No Kids,8,35.73,1,14,Responded,1
+1980,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,1,7,Did Not Respond,4
+1981,F,3,2,42000,N,S,CC,FreeLocal,High Income Families,13,38.18,3,13,Responded,1
+1982,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,2,14,Responded,3
+1986,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,2,7,Did Not Respond,3
+1991,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,1,11,Did Not Respond,2
+1992,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,4,15,Did Not Respond,3
+1994,F,2,1,2929.13,N,S,CH,Budget,Low Value and No Kids,20,88.23,4,7,Responded,4
+1996,F,3,2,41876.6,Y,M,CC,FreeLocal,High Income Families,28,132.65,3,3,Did Not Respond,3
+1997,M,1,0,96223.4,Y,M,CC,FreeLocal,High Income Families,4,5.73,1,6,Responded,5
+1998,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,1,2,Responded,4
+1999,M,1,0,69168.4,Y,M,CC,Budget,High Income Families,47,214.73,3,7,Responded,4
+2000,M,2,1,92148.5,Y,M,CC,Budget,High Income Families,23,100.9,2,4,Did Not Respond,2
+2001,M,1,0,96681,Y,M,CC,Budget,High Income Families,15,40.92,2,4,Did Not Respond,1
+2002,M,1,0,62705.9,Y,S,CC,FreeLocal,High Income Families,7,6.81,2,5,Did Not Respond,2
+2003,M,1,0,80221.2,N,S,Auto,FreeLocal,Married No Kids,10,49.56,2,4,Did Not Respond,2
+2004,M,1,0,84479.2,N,S,CC,FreeLocal,High Income Families,11,43.01,2,1,Did Not Respond,3
+2005,F,3,2,64977.4,N,M,CC,FreeLocal,High Income Families,9,17.66,3,14,Did Not Respond,2
+2006,F,1,0,77994,N,M,CH,FreeLocal,Low Value and No Kids,20,89.62,1,6,Responded,3
+2007,M,3,2,90103.7,N,M,CC,Budget,High Income Families,13,45.34,2,6,Did Not Respond,2
+2008,F,1,0,59008.4,Y,M,CC,Budget,High Income Families,6,18.73,1,6,Responded,2
+2009,M,2,1,5265.35,N,S,Auto,Budget,Married No Kids,6,23.46,2,1,Did Not Respond,4
+2010,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,1,3,Responded,1
+2011,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,4,11,Did Not Respond,3
+2012,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+2013,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,2,10,Did Not Respond,3
+2014,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,4,2,Responded,4
+2015,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+2017,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,4,10,Did Not Respond,2
+2020,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,4,11,Responded,1
+2024,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,4,7,Did Not Respond,3
+2027,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,4
+2028,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,4,14,Did Not Respond,4
+2029,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+2030,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,2,14,Responded,1
+2031,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,2,15,Did Not Respond,4
+2032,M,2,1,31952,N,S,CC,Budget,High Income Families,1,4.87,2,0,Did Not Respond,2
+2033,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+2034,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,1,7,Did Not Respond,4
+2035,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,2,12,Did Not Respond,3
+2036,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,2,8,Did Not Respond,3
+2040,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,2,8,Responded,3
+2041,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,1,4,Did Not Respond,4
+2042,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,4,11,Did Not Respond,4
+2044,M,1,0,90321.6,N,S,CH,FreeLocal,Low Value and No Kids,2,11.52,1,0,Responded,4
+2045,M,2,1,90478.6,N,D,CC,FreeLocal,High Income Families,31,136.47,1,9,Responded,4
+2046,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,3
+2050,F,2,1,35089,N,S,CC,Budget,High Income Families,46,206.08,4,12,Responded,1
+2052,M,1,0,9780.66,N,M,CC,FreeLocal,High Income Families,4,11.32,2,1,Did Not Respond,1
+2056,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,2,6,Did Not Respond,1
+2057,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,2,13,Did Not Respond,5
+2060,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,1,10,Did Not Respond,4
+2061,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,3,5,Did Not Respond,3
+2062,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,4,5,Did Not Respond,2
+2063,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,3,9,Did Not Respond,2
+2064,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,4,11,Responded,1
+2068,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+2071,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,3,7,Responded,3
+2073,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,2,10,Did Not Respond,3
+2078,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,4,15,Responded,1
+2082,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,3,11,Responded,4
+2083,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,1,8,Responded,4
+2084,M,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,2,Did Not Respond,4
+2085,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,3,13,Responded,4
+2087,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,3,14,Responded,3
+2090,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,1,11,Did Not Respond,4
+2093,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,1,15,Responded,3
+2094,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,3,14,Responded,1
+2097,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,1,2,Did Not Respond,1
+2098,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,4,11,Responded,4
+2101,M,1,0,47870.8,Y,M,CC,FreeLocal,High Income Families,3,12.48,2,0,Did Not Respond,2
+2102,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,2,11,Did Not Respond,3
+2104,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,3,3,Did Not Respond,3
+2106,M,2,1,5252.29,N,M,Auto,Budget,Married No Kids,4,17.08,2,1,Did Not Respond,1
+2109,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,3,13,Responded,1
+2114,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,2,11,Did Not Respond,4
+2117,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,2,7,Responded,4
+2119,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Did Not Respond,3
+2122,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,1,14,Did Not Respond,4
+2123,M,2,1,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,3,6,Responded,3
+2124,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,4,8,Did Not Respond,1
+2131,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,4,5,Did Not Respond,4
+2132,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,3,15,Responded,3
+2134,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Responded,4
+2135,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,2,0,Did Not Respond,4
+2136,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,1,13,Did Not Respond,1
+2140,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,1,15,Did Not Respond,3
+2141,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,1,8,Did Not Respond,3
+2144,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,1,3,Did Not Respond,1
+2145,F,2,1,83287,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,1,3,Did Not Respond,3
+2146,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,4,9,Did Not Respond,3
+2147,M,1,0,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,2,7,Responded,3
+2148,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,1,5,Did Not Respond,3
+2149,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,1,11,Did Not Respond,3
+2150,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,1,8,Did Not Respond,4
+2151,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,3,7,Did Not Respond,3
+2153,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,1,13,Did Not Respond,3
+2154,M,1,0,66000,N,M,CH,FreeLocal,Low Value and No Kids,7,26.69,4,2,Responded,3
+2155,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,1,9,Did Not Respond,3
+2158,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,4,11,Responded,1
+2159,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+2162,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,2,10,Responded,1
+2165,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,2,6,Responded,3
+2167,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,2,4,Did Not Respond,3
+2168,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,2,11,Did Not Respond,2
+2169,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Responded,4
+2173,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+2174,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,2,9,Responded,1
+2175,F,1,0,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,1,9,Did Not Respond,3
+2176,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,2,13,Responded,1
+2181,M,3,2,60095.2,Y,S,Auto,Budget,Married No Kids,24,116.14,2,1,Did Not Respond,1
+2182,F,2,1,6946.07,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,3,17,Responded,1
+2183,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,1,0,Did Not Respond,3
+2184,M,1,0,12387.6,N,M,Auto,FreeLocal,Married No Kids,19,65.93,2,0,Responded,4
+2185,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,4,10,Did Not Respond,5
+2186,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,3,9,Did Not Respond,3
+2188,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,1,5,Did Not Respond,3
+2189,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,4,11,Did Not Respond,2
+2191,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,4,4,Did Not Respond,4
+2195,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,4,10,Responded,4
+2198,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,4,8,Did Not Respond,3
+2201,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,3,9,Responded,2
+2202,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,1,4,Responded,2
+2204,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,1,6,Did Not Respond,2
+2205,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,1,1,Did Not Respond,3
+2207,M,1,0,15924.2,N,S,CH,FreeLocal,Low Value and No Kids,0,1.46,2,0,Did Not Respond,1
+2211,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,4,5,Did Not Respond,2
+2215,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,3,3,Did Not Respond,1
+2216,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,4,0,Did Not Respond,2
+2217,F,2,1,13829.4,N,M,CC,FreeLocal,High Income Families,35,160.42,1,18,Responded,1
+2218,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,4,1,Did Not Respond,3
+2220,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,3,11,Did Not Respond,1
+2221,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,4,1,Did Not Respond,2
+2222,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,3,2,Responded,4
+2223,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,4,10,Did Not Respond,4
+2225,F,1,0,38000,N,S,CC,Budget,High Income Families,53,262.91,3,20,Responded,1
+2230,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,4,11,Did Not Respond,3
+2232,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,1,6,Responded,4
+2233,M,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,1,4,Did Not Respond,2
+2234,F,2,1,32962.6,N,M,Auto,FreeLocal,Married No Kids,10,26.78,1,30,Did Not Respond,1
+2235,F,1,0,42000,N,S,CC,Budget,High Income Families,34,154.77,4,22,Responded,1
+2236,F,1,0,43000,N,S,CC,Budget,High Income Families,13,61.44,3,21,Did Not Respond,1
+2237,F,3,2,42000,N,S,Auto,Budget,Married No Kids,8,35.73,3,23,Responded,1
+2238,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,2,7,Did Not Respond,4
+2239,F,3,2,37000,N,S,CC,FreeLocal,High Income Families,13,38.18,3,15,Responded,1
+2240,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,4,14,Responded,3
+2243,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,3,7,Did Not Respond,3
+2247,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,4,11,Did Not Respond,2
+2248,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,3,15,Did Not Respond,3
+2251,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,2,2,Responded,4
+2252,M,2,1,92148.5,Y,M,CC,Budget,High Income Families,23,100.9,2,2,Did Not Respond,2
+2253,M,1,0,96681,Y,M,CC,Budget,High Income Families,15,40.92,2,3,Did Not Respond,1
+2254,M,1,0,62705.9,Y,S,CC,FreeLocal,High Income Families,7,6.81,2,4,Did Not Respond,2
+2255,M,1,0,80221.2,N,S,Auto,FreeLocal,Married No Kids,10,49.56,2,0,Did Not Respond,2
+2256,M,1,0,84479.2,N,S,CC,FreeLocal,High Income Families,11,43.01,2,5,Did Not Respond,2
+2257,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,1,3,Responded,1
+2258,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,1,11,Responded,3
+2259,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+2260,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,4,10,Did Not Respond,3
+2261,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,2,2,Responded,4
+2262,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,1,9,Did Not Respond,3
+2264,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,4,10,Did Not Respond,2
+2267,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,2,11,Responded,1
+2270,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,1,7,Did Not Respond,5
+2273,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,4
+2274,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,2,14,Did Not Respond,4
+2275,M,2,1,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+2276,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,1,14,Responded,1
+2277,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,3,15,Responded,4
+2279,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,3,15,Did Not Respond,4
+2280,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,2,7,Did Not Respond,3
+2281,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,3,12,Did Not Respond,3
+2282,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,4,8,Did Not Respond,3
+2285,M,1,0,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,3,8,Responded,3
+2286,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,2,4,Did Not Respond,3
+2287,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,3,11,Did Not Respond,3
+2289,M,1,0,90321.6,N,S,CH,FreeLocal,Low Value and No Kids,2,11.52,4,0,Responded,4
+2290,M,1,0,90478.6,N,S,CC,FreeLocal,High Income Families,31,136.47,3,9,Responded,4
+2291,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,3
+2294,F,2,1,32098,N,S,CC,Budget,High Income Families,46,206.08,1,12,Responded,1
+2300,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+2301,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,4,13,Did Not Respond,5
+2304,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,4,10,Did Not Respond,4
+2305,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,3,5,Did Not Respond,3
+2306,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,1,5,Did Not Respond,2
+2307,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,3,9,Did Not Respond,2
+2308,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,1,11,Responded,1
+2312,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,4,6,Responded,4
+2315,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,1,7,Responded,3
+2317,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,2,10,Did Not Respond,3
+2322,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,3,15,Responded,1
+2326,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,2,11,Responded,4
+2327,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+2328,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,3,2,Responded,4
+2329,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,1,13,Responded,4
+2331,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,1,14,Responded,3
+2334,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,4,11,Did Not Respond,4
+2337,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,2,15,Did Not Respond,3
+2338,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,1,14,Responded,1
+2341,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+2342,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,3,11,Responded,4
+2347,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,1,15,Responded,1
+2351,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,2,11,Responded,4
+2352,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,1,8,Responded,4
+2353,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,4,2,Did Not Respond,4
+2354,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,3,13,Responded,4
+2356,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,4,14,Responded,3
+2359,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,2,11,Did Not Respond,4
+2362,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,4,15,Did Not Respond,3
+2363,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,4,14,Responded,1
+2366,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+2367,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,4,11,Responded,4
+2371,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,4,11,Did Not Respond,3
+2372,M,2,1,63900.9,N,M,CC,Budget,High Income Families,9,39.04,2,4,Did Not Respond,2
+2373,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,1,3,Did Not Respond,3
+2377,M,1,0,72928.2,N,S,CC,Budget,High Income Families,41,196.22,2,4,Did Not Respond,3
+2378,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,2,13,Did Not Respond,1
+2383,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,2,11,Did Not Respond,3
+2386,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,4,7,Responded,4
+2388,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+2391,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,3,14,Responded,4
+2392,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,1,6,Responded,3
+2393,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,1,8,Did Not Respond,1
+2400,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,1,5,Did Not Respond,4
+2401,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,3,15,Responded,3
+2403,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,2,6,Responded,4
+2404,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,3,0,Did Not Respond,4
+2405,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,1,13,Did Not Respond,1
+2409,F,1,0,77000,N,M,Auto,FreeLocal,Married No Kids,24,90.18,2,15,Responded,3
+2410,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,4,8,Did Not Respond,3
+2413,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,1,3,Did Not Respond,1
+2414,F,2,1,83287,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,1,3,Did Not Respond,4
+2415,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,3,9,Did Not Respond,3
+2416,M,2,1,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,2,7,Responded,4
+2417,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,3,5,Did Not Respond,4
+2418,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,1,11,Did Not Respond,4
+2419,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,4,8,Did Not Respond,5
+2420,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,2,7,Did Not Respond,4
+2422,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,3,13,Did Not Respond,4
+2423,M,1,0,70000,N,M,CH,FreeLocal,Low Value and No Kids,7,26.69,1,2,Responded,4
+2424,M,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,2,9,Did Not Respond,3
+2427,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,1,11,Responded,1
+2428,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+2429,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+2431,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,1,10,Responded,1
+2434,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,2,6,Responded,3
+2436,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,3,4,Did Not Respond,3
+2437,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,4,11,Did Not Respond,2
+2438,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,2,14,Responded,3
+2442,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+2443,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,3,9,Responded,1
+2444,F,2,1,93454.3,Y,D,Auto,FreeLocal,Married No Kids,9,25.18,4,9,Responded,3
+2445,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,1,13,Responded,1
+2451,F,2,1,13829.4,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,1,23,Did Not Respond,1
+2452,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,4,0,Did Not Respond,3
+2454,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,1,10,Responded,5
+2455,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,3,9,Did Not Respond,3
+2457,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,3,5,Responded,3
+2458,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+2460,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,2,4,Did Not Respond,4
+2464,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,4,10,Responded,4
+2467,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,3,8,Did Not Respond,3
+2470,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,3,9,Responded,2
+2471,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,4,4,Did Not Respond,2
+2473,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,1,6,Did Not Respond,2
+2474,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,4,1,Did Not Respond,3
+2480,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,3,5,Did Not Respond,2
+2484,M,1,0,78554.2,N,S,Auto,Budget,Married No Kids,7,23.03,2,3,Did Not Respond,1
+2485,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,2,0,Did Not Respond,2
+2486,F,2,1,30000,N,M,CC,FreeLocal,High Income Families,35,160.42,1,17,Responded,1
+2487,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,2,1,Did Not Respond,3
+2489,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,1,11,Did Not Respond,1
+2490,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,2,1,Did Not Respond,2
+2491,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,3,2,Responded,4
+2492,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,4,10,Did Not Respond,4
+2494,F,1,0,41000,N,S,CC,Budget,High Income Families,53,262.91,1,14,Responded,1
+2499,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,3,11,Did Not Respond,3
+2501,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,1,6,Responded,4
+2502,M,1,0,9309.57,Y,S,CC,FreeLocal,High Income Families,22,99.73,2,4,Did Not Respond,2
+2503,F,2,1,32962.6,N,M,Auto,FreeLocal,Married No Kids,10,26.78,3,13,Responded,1
+2504,F,1,0,42000,N,S,CC,Budget,High Income Families,34,154.77,3,20,Responded,1
+2505,F,1,0,39000,N,S,CC,Budget,High Income Families,13,61.44,1,30,Responded,1
+2506,F,3,2,42000,N,S,Auto,Budget,Married No Kids,8,35.73,1,22,Did Not Respond,1
+2507,F,2,1,77726.4,N,D,Auto,Budget,Married No Kids,5,9.51,3,7,Did Not Respond,4
+2508,F,3,2,35089,N,S,CC,FreeLocal,High Income Families,13,38.18,3,21,Did Not Respond,1
+2509,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,1,14,Responded,3
+2512,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,3,7,Did Not Respond,3
+2516,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,4,11,Did Not Respond,2
+2517,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,1,15,Did Not Respond,3
+2520,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,2,2,Responded,4
+2526,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Did Not Respond,1
+2527,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,4,11,Did Not Respond,3
+2528,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+2529,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,1,10,Responded,3
+2530,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,3,2,Responded,4
+2531,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+2533,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,2,10,Did Not Respond,2
+2536,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,4,11,Responded,1
+2539,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,4,7,Did Not Respond,3
+2542,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,4,0,Did Not Respond,3
+2543,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,4,14,Responded,3
+2544,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,3,12,Did Not Respond,4
+2545,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,4,14,Responded,1
+2546,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,4,15,Did Not Respond,4
+2548,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,1,15,Did Not Respond,4
+2549,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,4,7,Did Not Respond,3
+2550,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,2,12,Responded,4
+2551,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,2,8,Did Not Respond,4
+2554,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,1,8,Responded,3
+2555,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,3,4,Did Not Respond,4
+2556,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,2,11,Did Not Respond,3
+2558,M,1,0,90321.6,N,S,CC,FreeLocal,High Income Families,2,11.52,4,0,Responded,4
+2559,M,1,0,90478.6,N,S,CH,FreeLocal,Low Value and No Kids,31,136.47,4,9,Responded,4
+2560,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,3,4,Did Not Respond,3
+2563,F,2,1,35000,N,S,CC,Budget,High Income Families,46,206.08,2,12,Responded,1
+2565,M,1,0,9780.66,N,M,CC,FreeLocal,High Income Families,4,11.32,2,1,Did Not Respond,1
+2569,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,3,6,Did Not Respond,1
+2570,M,1,0,75004.5,N,M,CC,Budget,High Income Families,12,32.19,1,13,Did Not Respond,5
+2573,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,2,10,Did Not Respond,4
+2574,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,3,5,Did Not Respond,3
+2575,M,1,0,20078,N,S,CC,Budget,High Income Families,3,6.33,2,5,Did Not Respond,2
+2576,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,2,9,Did Not Respond,2
+2577,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,2,11,Responded,1
+2581,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,4,6,Responded,4
+2584,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,3,7,Responded,3
+2586,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,1,10,Did Not Respond,3
+2591,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,3,15,Responded,1
+2595,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,3,11,Responded,4
+2596,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+2597,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,3,2,Responded,4
+2598,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,1,13,Responded,4
+2599,F,2,1,43894.5,N,M,CC,FreeLocal,High Income Families,14,40.38,2,15,Did Not Respond,3
+2600,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,4,14,Did Not Respond,3
+2601,F,2,1,94278.7,Y,S,CC,FreeLocal,High Income Families,7,9.67,1,13,Did Not Respond,4
+2602,F,1,0,83900.2,N,M,CC,FreeLocal,High Income Families,7,8.62,1,14,Did Not Respond,3
+2603,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,2,11,Did Not Respond,4
+2604,F,1,0,91708.4,N,M,CH,Budget,Low Value and No Kids,10,31.55,3,9,Did Not Respond,2
+2605,F,1,0,64335,Y,S,CC,FreeLocal,High Income Families,31,137.33,1,9,Did Not Respond,1
+2606,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,4,15,Responded,3
+2607,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,2,14,Responded,1
+2608,F,1,0,76142,N,S,CC,FreeLocal,High Income Families,23,84.1,2,14,Did Not Respond,2
+2609,F,2,1,46513.5,N,M,Auto,Budget,Married No Kids,12,41.71,2,9,Did Not Respond,2
+2610,M,2,1,1765.41,N,S,CC,FreeLocal,High Income Families,10,44.95,2,2,Did Not Respond,1
+2611,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,4,11,Responded,4
+2612,F,1,0,98716.3,N,S,CC,FreeLocal,High Income Families,9,13.92,1,10,Did Not Respond,4
+2613,F,3,2,38280,N,S,Auto,FreeLocal,Married No Kids,17,74.97,2,6,Did Not Respond,2
+2615,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,1,11,Did Not Respond,3
+2616,M,2,1,63900.9,N,M,CC,Budget,High Income Families,9,39.04,2,4,Did Not Respond,2
+2617,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,3,3,Did Not Respond,3
+2618,F,2,1,56722.8,N,M,CC,FreeLocal,High Income Families,15,51.17,3,9,Did Not Respond,4
+2619,M,2,1,5252.29,N,M,Auto,Budget,Married No Kids,4,17.08,2,1,Did Not Respond,1
+2620,F,1,0,78851.3,N,M,CC,FreeLocal,High Income Families,6,28.66,1,0,Did Not Respond,3
+2621,M,1,0,72928.2,N,S,CC,Budget,High Income Families,41,196.22,2,4,Did Not Respond,3
+2622,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,4,13,Responded,1
+2623,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,2,14,Did Not Respond,4
+2624,M,1,0,3601.71,N,S,Auto,Budget,Married No Kids,25,111.84,3,5,Did Not Respond,3
+2627,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,1,11,Did Not Respond,5
+2630,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,3,7,Responded,4
+2632,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+2635,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,3,14,Did Not Respond,4
+2636,M,2,1,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,4,6,Responded,3
+2637,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,2,8,Did Not Respond,1
+2644,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,1,5,Did Not Respond,4
+2645,M,2,1,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,3,15,Responded,3
+2647,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Responded,4
+2648,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,2,0,Did Not Respond,4
+2649,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,1,13,Did Not Respond,1
+2653,F,1,0,66666,N,M,Auto,FreeLocal,Married No Kids,24,90.18,2,15,Did Not Respond,4
+2654,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,1,8,Did Not Respond,3
+2657,M,1,0,30665.2,Y,S,Auto,FreeLocal,Married No Kids,15,63.28,2,3,Did Not Respond,1
+2658,F,2,1,77000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,2,3,Did Not Respond,3
+2659,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,3,9,Did Not Respond,3
+2660,M,1,0,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,3,7,Responded,3
+2661,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,2,5,Did Not Respond,3
+2662,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,3,11,Did Not Respond,5
+2663,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,4,8,Did Not Respond,4
+2664,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,3,7,Did Not Respond,4
+2666,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,3,13,Did Not Respond,3
+2667,M,1,0,58986.2,N,M,CH,FreeLocal,Low Value and No Kids,7,26.69,2,2,Did Not Respond,2
+2668,F,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,2,9,Did Not Respond,4
+2671,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,1,11,Did Not Respond,1
+2672,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,2,2,Did Not Respond,4
+2673,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+2675,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,3,10,Responded,1
+2678,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,1,6,Responded,3
+2680,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,2,4,Did Not Respond,3
+2681,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,4,11,Responded,2
+2682,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Responded,3
+2685,M,2,1,37626,N,S,CH,Budget,Low Value and No Kids,17,71.55,2,4,Did Not Respond,2
+2687,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,2,9,Responded,1
+2688,F,1,0,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,2,9,Did Not Respond,3
+2689,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,2,13,Responded,1
+2695,F,2,1,13829.4,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,4,23,Responded,1
+2696,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,4,0,Did Not Respond,3
+2698,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,1,10,Did Not Respond,5
+2699,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,1,9,Did Not Respond,3
+2701,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,4,5,Responded,3
+2702,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,3,11,Did Not Respond,2
+2704,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,2,4,Did Not Respond,4
+2708,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,1,10,Responded,4
+2711,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,1,8,Did Not Respond,3
+2714,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,4,9,Responded,2
+2715,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,4,4,Did Not Respond,2
+2717,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+2718,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,2,1,Did Not Respond,3
+2720,M,1,0,15924.2,N,S,CH,FreeLocal,Low Value and No Kids,0,1.46,2,0,Did Not Respond,1
+2724,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,3,5,Did Not Respond,2
+2728,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,3,3,Did Not Respond,1
+2729,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,1,0,Did Not Respond,2
+2730,F,2,1,14085.5,N,M,CC,FreeLocal,High Income Families,35,160.42,1,15,Responded,1
+2731,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,4,1,Did Not Respond,3
+2733,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,2,11,Did Not Respond,1
+2734,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,2,1,Did Not Respond,2
+2735,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,2,2,Did Not Respond,2
+2736,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,3,10,Did Not Respond,4
+2738,F,1,0,32962.6,N,S,CC,Budget,High Income Families,53,262.91,1,23,Responded,1
+2743,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,4,11,Did Not Respond,3
+2745,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,3,6,Responded,4
+2746,M,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,1,4,Did Not Respond,2
+2747,F,2,1,42000,N,M,Auto,FreeLocal,Married No Kids,10,26.78,4,17,Responded,1
+2748,F,1,0,43000,N,S,CC,Budget,High Income Families,34,154.77,4,14,Responded,1
+2749,F,1,0,42000,N,S,CC,Budget,High Income Families,13,61.44,3,13,Responded,1
+2750,F,3,2,32098,N,S,Auto,Budget,Married No Kids,8,35.73,4,19,Responded,1
+2751,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,3,7,Did Not Respond,4
+2752,F,3,2,35000,N,S,CC,FreeLocal,High Income Families,13,38.18,3,20,Did Not Respond,1
+2753,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,4,14,Responded,3
+2756,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,4,7,Did Not Respond,3
+2760,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,4,11,Did Not Respond,2
+2761,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,2,15,Responded,3
+2764,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,3,2,Responded,4
+2770,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Responded,1
+2771,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,1,11,Responded,3
+2772,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Did Not Respond,3
+2773,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,3,10,Did Not Respond,3
+2774,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,1,2,Responded,4
+2775,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,1,9,Did Not Respond,3
+2777,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,1,10,Did Not Respond,2
+2780,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,1,11,Responded,1
+2783,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,3,7,Did Not Respond,3
+2786,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,4,0,Did Not Respond,3
+2787,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,3,14,Did Not Respond,4
+2788,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+2789,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,3,14,Responded,1
+2790,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,4,15,Did Not Respond,4
+2792,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,4,15,Did Not Respond,4
+2793,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,3,7,Did Not Respond,4
+2794,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,4,12,Did Not Respond,3
+2795,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,4,8,Did Not Respond,3
+2798,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,3,8,Responded,3
+2799,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,3,4,Did Not Respond,5
+2800,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,1,11,Did Not Respond,4
+2802,M,1,0,90321.6,N,S,CC,FreeLocal,High Income Families,2,11.52,3,0,Responded,4
+2803,M,1,0,90478.6,N,S,CC,FreeLocal,High Income Families,31,136.47,2,9,Responded,4
+2804,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,4
+2807,F,2,1,38000,N,S,CC,Budget,High Income Families,46,206.08,3,12,Responded,1
+2813,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+2814,M,1,0,75004.5,N,M,CC,Budget,High Income Families,12,32.19,4,13,Did Not Respond,5
+2817,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,2,10,Did Not Respond,4
+2818,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,4,5,Did Not Respond,3
+2819,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,4,5,Did Not Respond,2
+2820,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,4,9,Did Not Respond,2
+2821,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,1,11,Responded,1
+2825,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+2827,F,2,1,37000,N,S,CC,Budget,High Income Families,46,206.08,1,12,Responded,1
+2829,M,1,0,9780.66,N,M,CC,FreeLocal,High Income Families,4,11.32,2,1,Did Not Respond,1
+2833,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,2,6,Did Not Respond,1
+2834,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,2,13,Did Not Respond,5
+2837,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,1,10,Did Not Respond,4
+2838,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,3,5,Did Not Respond,3
+2839,M,3,2,20078,N,M,CC,Budget,High Income Families,3,6.33,1,5,Did Not Respond,2
+2840,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,4,9,Did Not Respond,2
+2841,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,1,11,Responded,1
+2845,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+2848,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,1,7,Responded,3
+2850,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+2851,F,2,1,97689.2,N,S,CC,FreeLocal,High Income Families,3,8.79,4,3,Responded,4
+2852,F,2,1,75397.8,Y,S,CC,FreeLocal,High Income Families,12,35.9,4,12,Responded,4
+2853,F,2,1,49453.8,N,M,CC,Budget,High Income Families,6,12.33,4,9,Responded,4
+2854,M,1,0,92881.8,N,M,CC,FreeLocal,High Income Families,19,85.29,2,1,Responded,1
+2855,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,2,15,Responded,1
+2856,F,1,0,68641.5,Y,S,CC,FreeLocal,High Income Families,11,50.22,4,3,Responded,3
+2857,F,2,1,50735.1,Y,M,CC,Budget,High Income Families,6,16.76,4,6,Responded,2
+2858,F,2,1,52490.1,N,M,CC,FreeLocal,High Income Families,6,9.81,4,5,Responded,1
+2859,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,3,11,Responded,4
+2860,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,1,8,Responded,4
+2861,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,4,2,Responded,4
+2862,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,3,13,Responded,4
+2863,F,2,1,43894.5,N,M,CC,FreeLocal,High Income Families,14,40.38,4,15,Responded,3
+2864,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,3,14,Responded,3
+2865,F,2,1,94278.7,Y,S,CC,FreeLocal,High Income Families,7,9.67,4,13,Responded,4
+2866,F,1,0,83900.2,N,M,CC,FreeLocal,High Income Families,7,8.62,4,14,Responded,3
+2867,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,4,11,Did Not Respond,4
+2868,F,1,0,91708.4,N,M,CH,Budget,Low Value and No Kids,10,31.55,4,9,Responded,2
+2870,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,1,15,Did Not Respond,3
+2871,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,3,14,Responded,1
+2874,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+2875,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,1,11,Did Not Respond,4
+2879,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,1,11,Did Not Respond,4
+2881,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,1,3,Did Not Respond,3
+2886,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,2,13,Did Not Respond,1
+2891,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,3,11,Did Not Respond,4
+2894,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,1,7,Responded,4
+2896,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+2899,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,4,14,Did Not Respond,4
+2900,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,1,6,Responded,3
+2901,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,1,8,Did Not Respond,1
+2908,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,3,5,Did Not Respond,4
+2909,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,1,15,Responded,3
+2911,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,3,6,Responded,4
+2912,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,1,0,Did Not Respond,4
+2913,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,2,13,Did Not Respond,1
+2917,F,1,0,68000,N,M,Auto,FreeLocal,Married No Kids,24,90.18,2,15,Did Not Respond,3
+2918,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,3,8,Did Not Respond,3
+2921,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,4,3,Did Not Respond,1
+2922,F,2,1,80000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,1,3,Did Not Respond,4
+2923,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,1,9,Did Not Respond,4
+2924,F,3,2,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,4,7,Did Not Respond,4
+2925,F,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,4,5,Did Not Respond,3
+2926,F,2,1,85275,N,D,Auto,FreeLocal,Married No Kids,35,151.61,3,11,Did Not Respond,4
+2927,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,2,8,Did Not Respond,3
+2928,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,4,7,Did Not Respond,3
+2930,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,2,13,Did Not Respond,3
+2931,M,1,0,58986.2,N,M,CH,FreeLocal,Low Value and No Kids,7,26.69,2,2,Did Not Respond,2
+2932,F,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,3,9,Did Not Respond,3
+2935,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,4,11,Responded,1
+2936,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+2937,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+2939,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,4,10,Responded,1
+2942,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,4,6,Responded,3
+2944,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,1,4,Did Not Respond,3
+2945,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,3,11,Did Not Respond,2
+2946,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Responded,4
+2951,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,4,9,Responded,1
+2952,F,1,0,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,4,9,Did Not Respond,3
+2953,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,4,13,Responded,1
+2959,F,2,1,30000,N,M,CH,FreeLocal,Low Value and No Kids,7,8.84,2,30,Did Not Respond,1
+2960,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,3,0,Did Not Respond,3
+2962,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,3,10,Did Not Respond,5
+2963,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,4,9,Did Not Respond,3
+2965,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,4,5,Did Not Respond,3
+2966,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+2968,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,4,4,Did Not Respond,4
+2972,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,2,10,Responded,4
+2975,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,2,8,Did Not Respond,3
+2978,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,3,9,Responded,2
+2979,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,2,4,Did Not Respond,2
+2981,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,1,6,Did Not Respond,2
+2982,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,3,1,Did Not Respond,3
+2984,M,1,0,15924.2,N,S,CH,FreeLocal,Low Value and No Kids,0,1.46,2,0,Did Not Respond,1
+2988,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,1,5,Did Not Respond,2
+2992,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,1,3,Did Not Respond,1
+2993,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,3,0,Did Not Respond,2
+2994,F,2,1,14085.5,N,M,CC,FreeLocal,High Income Families,35,160.42,1,22,Responded,1
+2995,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,4,1,Did Not Respond,3
+2997,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,4,11,Did Not Respond,1
+2998,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,4,1,Did Not Respond,2
+2999,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,1,2,Responded,4
+3000,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,1,10,Did Not Respond,4
+3002,F,1,0,32962.6,N,S,CC,Budget,High Income Families,53,262.91,4,21,Responded,1
+3007,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,2,11,Did Not Respond,3
+3009,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,3,6,Responded,4
+3010,M,1,0,9309.57,Y,S,CC,FreeLocal,High Income Families,22,99.73,2,4,Did Not Respond,2
+3011,F,2,1,28000,N,M,Auto,FreeLocal,Married No Kids,10,26.78,3,23,Responded,1
+3012,F,1,0,38000,N,S,CC,Budget,High Income Families,34,154.77,1,15,Responded,1
+3013,F,1,0,32962.6,N,S,CC,Budget,High Income Families,13,61.44,2,23,Did Not Respond,1
+3014,F,3,2,42000,N,S,Auto,Budget,Married No Kids,8,35.73,2,17,Did Not Respond,1
+3015,F,2,1,77726.4,N,D,Auto,Budget,Married No Kids,5,9.51,4,7,Did Not Respond,4
+3016,F,3,2,43000,N,S,CC,FreeLocal,High Income Families,13,38.18,2,14,Responded,1
+3017,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,1,14,Responded,3
+3020,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,2,7,Did Not Respond,3
+3024,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,1,11,Did Not Respond,2
+3025,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,4,15,Did Not Respond,3
+3028,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,1,2,Did Not Respond,4
+3034,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Did Not Respond,1
+3035,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,4,11,Did Not Respond,3
+3036,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+3037,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,4,10,Did Not Respond,3
+3038,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,2,2,Responded,4
+3039,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+3041,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,3,10,Did Not Respond,2
+3044,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,4,11,Responded,1
+3047,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,1,7,Did Not Respond,3
+3050,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,4
+3051,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,3,14,Did Not Respond,3
+3052,M,1,0,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,1,12,Did Not Respond,4
+3053,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,3,14,Responded,1
+3054,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,3,15,Did Not Respond,4
+3056,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,3,15,Responded,4
+3057,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,3,7,Did Not Respond,3
+3058,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,1,12,Did Not Respond,3
+3059,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,1,8,Did Not Respond,5
+3062,M,1,0,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,3,8,Responded,3
+3063,F,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,4,4,Did Not Respond,3
+3064,F,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,2,11,Did Not Respond,4
+3066,M,1,0,90321.6,N,S,Auto,FreeLocal,Married No Kids,2,11.52,2,0,Did Not Respond,2
+3067,M,2,1,90478.6,N,S,CC,FreeLocal,High Income Families,31,136.47,2,9,Responded,4
+3068,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,1,4,Did Not Respond,3
+3071,F,2,1,41000,N,S,CC,Budget,High Income Families,46,206.08,4,12,Responded,1
+3077,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,1,6,Did Not Respond,1
+3078,M,1,0,75004.5,N,M,CC,Budget,High Income Families,12,32.19,4,13,Did Not Respond,5
+3081,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,1,10,Did Not Respond,4
+3082,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,1,5,Did Not Respond,3
+3083,M,2,1,20078,N,D,CC,Budget,High Income Families,3,6.33,2,5,Did Not Respond,2
+3084,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,4,9,Did Not Respond,2
+3085,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,3,11,Responded,1
+3089,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,2,6,Responded,4
+3092,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,1,7,Responded,3
+3094,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+3099,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,1,15,Responded,1
+3103,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,4,11,Responded,4
+3104,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+3105,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,4,2,Responded,4
+3106,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,4,13,Responded,4
+3108,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,2,14,Responded,3
+3111,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,4,11,Did Not Respond,4
+3114,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,1,15,Did Not Respond,3
+3115,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,1,14,Responded,1
+3118,M,2,1,1765.41,N,S,CC,FreeLocal,High Income Families,10,44.95,2,2,Did Not Respond,1
+3119,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,2,11,Responded,4
+3123,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,4,11,Did Not Respond,4
+3125,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,4,3,Did Not Respond,3
+3130,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,4,13,Did Not Respond,1
+3135,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,2,11,Did Not Respond,3
+3138,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,4,7,Responded,4
+3140,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Did Not Respond,3
+3143,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,3,14,Did Not Respond,4
+3144,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,4,6,Responded,3
+3145,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,2,8,Did Not Respond,1
+3152,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,1,5,Did Not Respond,4
+3153,M,2,1,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,4,15,Responded,3
+3155,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,3,6,Responded,4
+3156,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,3,0,Did Not Respond,4
+3157,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,4,13,Did Not Respond,1
+3158,M,2,1,5306.11,N,M,CH,Budget,Low Value and No Kids,5,17.42,2,3,Did Not Respond,3
+3161,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,1,15,Did Not Respond,3
+3162,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,2,8,Did Not Respond,3
+3165,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,1,3,Did Not Respond,1
+3166,F,2,1,78000,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,1,3,Responded,4
+3167,F,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,1,9,Did Not Respond,4
+3168,F,3,2,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,3,7,Did Not Respond,3
+3169,M,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,1,5,Responded,3
+3170,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,1,11,Did Not Respond,3
+3171,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,1,8,Did Not Respond,3
+3172,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,2,7,Did Not Respond,3
+3174,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,1,13,Did Not Respond,3
+3175,M,1,0,68000,N,M,CC,FreeLocal,High Income Families,7,26.69,4,2,Responded,5
+3176,F,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,4,9,Did Not Respond,3
+3177,M,1,0,3911.9,N,M,CC,Budget,High Income Families,8,25.14,2,3,Did Not Respond,3
+3179,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,1,11,Responded,1
+3180,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+3183,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,3,10,Responded,1
+3186,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,3,6,Did Not Respond,3
+3188,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,4,4,Did Not Respond,3
+3189,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,1,11,Did Not Respond,2
+3190,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,2,14,Responded,4
+3194,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+3195,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,3,9,Responded,1
+3196,F,1,0,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,3,9,Did Not Respond,3
+3197,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,2,13,Responded,1
+3204,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,2,0,Did Not Respond,3
+3206,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,2,10,Did Not Respond,5
+3207,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,1,9,Did Not Respond,3
+3209,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,4,5,Responded,3
+3210,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+3212,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,1,4,Did Not Respond,4
+3216,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,2,10,Responded,4
+3219,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,2,8,Did Not Respond,3
+3222,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,1,9,Responded,2
+3223,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,1,4,Responded,2
+3225,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+3226,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,1,1,Did Not Respond,3
+3228,M,1,0,15924.2,N,S,CH,FreeLocal,Low Value and No Kids,0,1.46,2,0,Did Not Respond,1
+3232,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,3,5,Did Not Respond,2
+3236,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,4,3,Did Not Respond,1
+3237,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,1,0,Did Not Respond,2
+3239,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,3,1,Did Not Respond,3
+3241,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,4,11,Did Not Respond,1
+3242,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,1,1,Did Not Respond,2
+3243,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,4,2,Responded,4
+3244,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,4,10,Did Not Respond,4
+3251,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,3,11,Did Not Respond,3
+3253,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,1,6,Responded,4
+3254,M,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,3,4,Did Not Respond,2
+3259,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,3,7,Did Not Respond,4
+3261,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,3,14,Responded,3
+3264,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,2,7,Did Not Respond,3
+3268,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,2,11,Did Not Respond,2
+3269,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,4,15,Did Not Respond,3
+3272,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,2,2,Responded,4
+3278,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,1,3,Responded,1
+3279,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,2,11,Did Not Respond,3
+3280,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+3281,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,1,10,Responded,3
+3282,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,2,2,Responded,4
+3283,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,2,9,Did Not Respond,3
+3285,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,2,10,Did Not Respond,2
+3288,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,2,11,Responded,1
+3291,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,4,7,Did Not Respond,4
+3294,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,3
+3295,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,1,14,Did Not Respond,3
+3296,M,2,1,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,3,12,Did Not Respond,4
+3297,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,3,14,Responded,1
+3298,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,3,15,Did Not Respond,4
+3300,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+3301,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,2,7,Did Not Respond,3
+3302,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,1,12,Did Not Respond,5
+3303,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,1,8,Did Not Respond,4
+3306,M,1,0,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,4,8,Responded,3
+3307,M,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,1,4,Responded,3
+3308,M,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,4,11,Responded,4
+3310,M,1,0,90321.6,N,S,Auto,FreeLocal,Married No Kids,2,11.52,2,0,Did Not Respond,3
+3311,M,2,1,90478.6,N,D,CC,FreeLocal,High Income Families,31,136.47,4,9,Responded,4
+3312,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,3
+3315,F,2,1,42000,N,S,CC,Budget,High Income Families,46,206.08,3,12,Responded,1
+3317,M,1,0,9780.66,N,M,CC,FreeLocal,High Income Families,4,11.32,2,1,Did Not Respond,1
+3321,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,3,6,Did Not Respond,1
+3322,M,3,2,75004.5,N,M,CC,Budget,High Income Families,12,32.19,4,13,Did Not Respond,5
+3325,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,4,10,Did Not Respond,4
+3326,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,2,5,Did Not Respond,3
+3327,M,1,0,20078,N,D,CC,Budget,High Income Families,3,6.33,2,5,Did Not Respond,2
+3328,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,3,9,Did Not Respond,2
+3329,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,1,11,Responded,1
+3333,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,4,6,Responded,4
+3336,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,2,7,Responded,3
+3338,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+3343,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,3,15,Responded,1
+3347,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,2,11,Responded,4
+3348,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+3349,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,2,Did Not Respond,4
+3350,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,4,13,Responded,4
+3352,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,4,14,Responded,3
+3355,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,2,11,Did Not Respond,4
+3358,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,3,15,Did Not Respond,3
+3359,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,1,14,Responded,1
+3362,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,3,2,Responded,1
+3363,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,1,11,Did Not Respond,4
+3367,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,4,11,Did Not Respond,3
+3369,M,3,2,28766.9,N,M,CC,Budget,High Income Families,13,58.08,3,3,Did Not Respond,3
+3374,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,3,13,Did Not Respond,1
+3379,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,1,11,Did Not Respond,3
+3382,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,4,7,Responded,4
+3384,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+3387,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,2,14,Did Not Respond,4
+3388,M,1,0,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,3,6,Responded,3
+3389,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,2,8,Did Not Respond,1
+3396,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,4,5,Did Not Respond,4
+3397,M,2,1,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,3,15,Responded,3
+3399,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,2,6,Did Not Respond,4
+3400,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,4,0,Did Not Respond,4
+3401,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,2,13,Did Not Respond,1
+3402,M,2,1,5306.11,N,M,CH,Budget,Low Value and No Kids,5,17.42,2,3,Did Not Respond,3
+3405,F,1,0,83287,N,M,Auto,FreeLocal,Married No Kids,24,90.18,3,15,Did Not Respond,4
+3406,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,1,8,Did Not Respond,3
+3409,M,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,4,3,Did Not Respond,1
+3410,F,2,1,83287,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,3,3,Did Not Respond,3
+3411,M,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,3,9,Responded,4
+3412,F,3,2,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,2,7,Did Not Respond,4
+3413,M,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,1,5,Responded,3
+3414,F,2,1,85275,N,D,Auto,FreeLocal,Married No Kids,35,151.61,4,11,Did Not Respond,4
+3415,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,2,8,Did Not Respond,3
+3416,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,1,7,Did Not Respond,3
+3418,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,1,13,Did Not Respond,4
+3419,M,1,0,66000,N,M,CC,FreeLocal,High Income Families,7,26.69,1,2,Responded,3
+3420,F,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,4,9,Did Not Respond,3
+3423,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,4,11,Responded,1
+3424,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+3425,F,1,0,89813.6,N,S,CC,FreeLocal,High Income Families,33,149.26,4,7,Did Not Respond,1
+3427,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,1,10,Responded,1
+3430,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,4,6,Responded,3
+3432,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,3,4,Did Not Respond,3
+3433,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,1,11,Did Not Respond,2
+3434,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,4,14,Did Not Respond,4
+3438,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+3439,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,2,9,Did Not Respond,1
+3440,F,2,1,93454.3,Y,S,Auto,FreeLocal,Married No Kids,9,25.18,3,9,Did Not Respond,3
+3441,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,2,13,Responded,1
+3448,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,4,0,Did Not Respond,3
+3450,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,4,10,Did Not Respond,5
+3451,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,1,9,Did Not Respond,3
+3453,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,1,5,Did Not Respond,3
+3454,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,1,11,Did Not Respond,2
+3456,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,4,4,Did Not Respond,4
+3460,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,2,10,Responded,4
+3463,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,2,8,Did Not Respond,3
+3466,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,4,9,Responded,2
+3467,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,3,4,Did Not Respond,2
+3469,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+3470,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,2,1,Did Not Respond,3
+3476,M,1,0,21416.5,N,S,CC,FreeLocal,High Income Families,6,8.53,2,5,Did Not Respond,2
+3480,M,3,2,78554.2,N,M,Auto,Budget,Married No Kids,7,23.03,4,3,Did Not Respond,1
+3481,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,4,0,Did Not Respond,2
+3483,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,2,1,Did Not Respond,3
+3485,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,2,11,Did Not Respond,1
+3486,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,2,1,Did Not Respond,2
+3487,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,1,2,Responded,4
+3488,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,1,10,Did Not Respond,4
+3495,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,2,11,Did Not Respond,3
+3497,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,2,6,Responded,4
+3498,F,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,2,4,Did Not Respond,2
+3503,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,2,7,Did Not Respond,4
+3505,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,1,14,Responded,3
+3508,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,3,7,Did Not Respond,3
+3512,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,1,11,Did Not Respond,2
+3513,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,3,15,Did Not Respond,3
+3516,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,2,2,Responded,4
+3522,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,2,3,Did Not Respond,1
+3523,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,1,11,Did Not Respond,3
+3524,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+3525,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,1,10,Responded,3
+3526,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,4,2,Responded,4
+3527,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,3,9,Did Not Respond,3
+3529,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,1,10,Did Not Respond,2
+3532,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,3,11,Responded,1
+3535,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,1,7,Did Not Respond,3
+3538,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,4,0,Did Not Respond,3
+3539,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,3,14,Did Not Respond,5
+3540,M,2,1,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,3,12,Did Not Respond,4
+3541,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,4,14,Responded,1
+3542,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,4,15,Responded,4
+3544,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+3545,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,4,7,Responded,4
+3546,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,1,12,Did Not Respond,4
+3547,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,3,8,Did Not Respond,4
+3550,M,2,1,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,2,8,Responded,3
+3551,M,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,3,4,Responded,3
+3552,M,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,3,11,Responded,4
+3554,M,1,0,90321.6,N,S,CC,FreeLocal,High Income Families,2,11.52,4,0,Responded,4
+3555,M,2,1,90478.6,N,S,CH,FreeLocal,Low Value and No Kids,31,136.47,1,9,Responded,4
+3556,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,1,4,Responded,3
+3559,F,2,1,35089,N,S,CC,Budget,High Income Families,46,206.08,3,12,Responded,1
+3565,M,3,2,53010.8,N,M,CC,FreeLocal,High Income Families,12,46.42,4,6,Did Not Respond,1
+3566,M,2,1,75004.5,N,M,CC,Budget,High Income Families,12,32.19,3,13,Did Not Respond,5
+3569,M,1,0,19749.3,N,M,CC,Budget,High Income Families,7,13.94,3,10,Did Not Respond,4
+3570,M,2,1,57626.9,Y,S,CC,Budget,High Income Families,10,38.96,2,5,Did Not Respond,3
+3571,M,1,0,20078,N,S,CC,Budget,High Income Families,3,6.33,2,5,Did Not Respond,2
+3572,F,3,2,47902,N,M,Auto,FreeLocal,Married No Kids,14,49.92,4,9,Did Not Respond,2
+3573,M,2,1,7545.96,Y,M,CC,Budget,High Income Families,40,178.36,4,11,Responded,1
+3577,M,3,2,89459.9,N,S,CC,FreeLocal,High Income Families,7,22.9,3,6,Did Not Respond,4
+3580,F,2,1,13576.5,N,S,CC,Budget,High Income Families,8,25.66,3,7,Responded,3
+3582,F,3,2,42031.8,N,M,CH,Budget,Low Value and No Kids,12,39.33,3,10,Did Not Respond,3
+3587,M,3,2,43634.5,N,S,CC,Budget,High Income Families,29,104.64,2,15,Did Not Respond,1
+3591,F,2,1,13109.1,N,S,Auto,Budget,Married No Kids,13,40.48,4,11,Responded,4
+3592,M,2,1,92647.5,N,S,CC,Budget,High Income Families,6,10.34,4,8,Responded,4
+3593,F,3,2,21021.6,Y,S,CC,Budget,High Income Families,3,11.19,2,2,Responded,4
+3594,M,1,0,74460.7,Y,S,CC,FreeLocal,High Income Families,41,179.93,4,13,Responded,4
+3596,F,3,2,28787.4,N,S,Auto,Budget,Married No Kids,17,58.09,1,14,Responded,3
+3599,M,2,1,13091.6,N,M,CC,Budget,High Income Families,9,20.26,1,11,Did Not Respond,4
+3602,F,3,2,62061.8,Y,M,Auto,FreeLocal,Married No Kids,16,52.22,2,15,Did Not Respond,3
+3603,F,2,1,20550.9,Y,M,CC,Budget,High Income Families,17,57.06,1,14,Responded,1
+3606,M,3,2,1765.41,N,M,CC,FreeLocal,High Income Families,10,44.95,4,2,Did Not Respond,1
+3607,F,3,2,19131.1,N,S,Auto,Budget,Married No Kids,11,34.91,3,11,Responded,4
+3611,F,3,2,6440.46,Y,S,CH,Budget,Low Value and No Kids,10,27.2,3,11,Did Not Respond,3
+3613,M,1,0,28766.9,N,S,CC,Budget,High Income Families,13,58.08,2,3,Did Not Respond,3
+3618,M,3,2,91272.2,Y,M,CC,FreeLocal,High Income Families,8,13.01,3,13,Did Not Respond,1
+3623,F,1,0,73228.3,N,S,Auto,Budget,Married No Kids,10,28.11,3,11,Did Not Respond,3
+3626,M,2,1,64792.3,N,M,CH,FreeLocal,Low Value and No Kids,10,36.84,4,7,Responded,4
+3628,F,1,0,93322.1,Y,S,CH,Budget,Low Value and No Kids,8,8.79,1,15,Responded,3
+3631,M,3,2,49910.7,Y,M,CC,Budget,High Income Families,10,23.72,1,14,Did Not Respond,4
+3632,M,2,1,76161.4,Y,M,CC,FreeLocal,High Income Families,8,25.58,4,6,Responded,3
+3633,F,3,2,55860,Y,M,CC,FreeLocal,High Income Families,5,10.35,3,8,Did Not Respond,1
+3640,M,3,2,57360.8,Y,M,CC,FreeLocal,High Income Families,14,57.25,4,5,Did Not Respond,4
+3641,M,1,0,92414.7,Y,M,CC,FreeLocal,High Income Families,8,10.62,4,15,Responded,3
+3643,F,3,2,14578.8,Y,S,Auto,Budget,Married No Kids,21,95.1,1,6,Responded,4
+3644,F,3,2,87578.2,Y,M,CC,Budget,High Income Families,4,22.15,1,0,Did Not Respond,4
+3645,F,3,2,86695.4,N,M,CC,FreeLocal,High Income Families,12,32.09,3,13,Did Not Respond,1
+3649,F,1,0,77000,N,M,Auto,FreeLocal,Married No Kids,24,90.18,3,15,Did Not Respond,3
+3650,M,2,1,2067.82,N,M,CC,Budget,High Income Families,17,70.65,1,8,Did Not Respond,3
+3653,F,3,2,30665.2,Y,M,Auto,FreeLocal,Married No Kids,15,63.28,2,3,Did Not Respond,1
+3654,F,2,1,83287,Y,M,Auto,FreeLocal,Married No Kids,7,30.95,4,3,Did Not Respond,3
+3655,M,2,1,98680.4,Y,M,CH,FreeLocal,Low Value and No Kids,5,8.85,2,9,Responded,4
+3656,F,3,2,65619.7,Y,M,CC,Budget,High Income Families,32,144.66,1,7,Did Not Respond,3
+3657,M,2,1,95620.3,Y,M,CC,Budget,High Income Families,21,93.61,3,5,Responded,3
+3658,F,1,0,85275,N,S,Auto,FreeLocal,Married No Kids,35,151.61,1,11,Did Not Respond,5
+3659,F,2,1,66921.4,Y,M,CC,FreeLocal,High Income Families,5,8.97,4,8,Did Not Respond,5
+3660,F,2,1,98453.6,Y,M,Auto,FreeLocal,Married No Kids,5,11.65,1,7,Did Not Respond,4
+3662,F,3,2,57420,Y,S,Auto,Budget,Married No Kids,56,252.53,3,13,Did Not Respond,4
+3663,M,1,0,70000,N,M,CC,FreeLocal,High Income Families,7,26.69,4,2,Responded,3
+3664,F,3,2,47639.1,N,M,CC,Budget,High Income Families,11,39.62,3,9,Did Not Respond,4
+3667,F,1,0,39461,N,S,CC,FreeLocal,High Income Families,25,103.52,4,11,Responded,1
+3668,M,2,1,47371,Y,M,CC,Budget,High Income Families,54,258.29,4,2,Did Not Respond,4
+3671,M,2,1,16432.1,Y,S,CH,Budget,Low Value and No Kids,22,80.47,3,10,Responded,1
+3672,F,3,2,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Responded,4
+3673,F,3,2,84166.1,N,M,CC,Budget,High Income Families,3,11.74,2,2,Responded,4
+3674,F,2,1,540.4,Y,S,Auto,Budget,Married No Kids,4,7.75,4,6,Responded,3
+3675,M,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,1,6,Responded,2
+3676,F,3,2,80087.7,N,M,CC,FreeLocal,High Income Families,6,22.82,2,4,Did Not Respond,3
+3677,F,3,2,59691.3,N,M,CC,Budget,High Income Families,56,256.7,2,11,Did Not Respond,2
+3678,F,3,2,11251.1,Y,S,CC,FreeLocal,High Income Families,28,113.48,2,14,Responded,3
+3679,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Responded,4
+3680,M,2,1,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Responded,4
+3681,M,2,1,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3682,F,3,2,93559.1,N,S,CC,Budget,High Income Families,6,29.9,4,1,Did Not Respond,4
+3683,F,3,2,3416.62,Y,S,CC,Budget,High Income Families,25,104.73,3,9,Responded,1
+3684,F,2,1,93454.3,Y,D,Auto,FreeLocal,Married No Kids,9,25.18,1,9,Did Not Respond,3
+3685,M,1,0,5745,Y,M,CC,FreeLocal,High Income Families,9,17.71,3,13,Responded,1
+3686,M,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,2,6,Responded,2
+3687,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,3,12,Responded,4
+3688,M,2,1,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+3689,M,1,0,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3690,M,3,2,60095.2,Y,S,Auto,Budget,Married No Kids,24,116.14,2,1,Did Not Respond,1
+3692,F,3,2,11234.7,Y,M,CC,Budget,High Income Families,23,112.72,1,0,Did Not Respond,3
+3694,F,2,1,82931.3,N,M,Auto,FreeLocal,Married No Kids,27,118,2,10,Did Not Respond,5
+3695,F,3,2,57483.9,N,M,CH,Budget,Low Value and No Kids,9,27.29,4,9,Did Not Respond,3
+3696,M,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,4,6,Responded,2
+3697,F,3,2,21274,N,S,Auto,FreeLocal,Married No Kids,9,32.43,1,5,Responded,3
+3698,F,3,2,28267,N,M,CC,FreeLocal,High Income Families,43,192.53,2,11,Did Not Respond,2
+3699,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Responded,4
+3700,F,3,2,36725.1,N,M,CH,Budget,Low Value and No Kids,19,77,1,4,Did Not Respond,4
+3701,M,1,0,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+3702,M,1,0,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3703,M,1,0,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Responded,4
+3704,M,2,1,94188.3,N,S,CC,Budget,High Income Families,8,19.78,2,10,Responded,4
+3705,M,2,1,84166.1,N,D,CC,Budget,High Income Families,3,11.74,2,2,Did Not Respond,2
+3706,M,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,1,6,Did Not Respond,2
+3707,F,3,2,91861,Y,M,CC,Budget,High Income Families,4,6.74,1,8,Did Not Respond,3
+3708,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Did Not Respond,4
+3709,M,2,1,67388,N,M,CC,Budget,High Income Families,19,91.04,3,2,Responded,4
+3710,F,2,1,12374.9,Y,S,Auto,FreeLocal,Married No Kids,25,106.1,2,9,Responded,2
+3711,F,3,2,69133.9,Y,M,CH,FreeLocal,Low Value and No Kids,9,37.73,2,4,Did Not Respond,2
+3712,M,1,0,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3713,F,3,2,84948,Y,M,CH,FreeLocal,Low Value and No Kids,5,12.58,3,6,Did Not Respond,2
+3714,F,3,2,30998.8,N,M,Auto,Budget,Married No Kids,11,50.5,1,1,Did Not Respond,3
+3715,M,3,2,59613.1,N,M,CC,Budget,High Income Families,40,163.41,2,6,Responded,2
+3716,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,3,12,Responded,4
+3717,M,1,0,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+3718,M,1,0,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3719,M,3,2,59613.1,N,M,CC,Budget,High Income Families,27,163.41,4,6,Responded,2
+3720,M,3,2,21416.5,N,M,CC,FreeLocal,High Income Families,6,8.53,3,5,Did Not Respond,2
+3721,M,3,2,45429.7,Y,M,CH,FreeLocal,Low Value and No Kids,20,73.04,2,12,Responded,4
+3722,M,2,1,67388,N,M,CC,Budget,High Income Families,19,91.04,4,2,Responded,4
+3723,M,2,1,84166.1,N,M,CC,Budget,High Income Families,3,11.74,1,2,Responded,4
+3724,M,2,1,78554.2,N,S,Auto,Budget,Married No Kids,7,23.03,2,3,Did Not Respond,1
+3725,F,3,2,38215.9,N,M,Auto,Budget,Married No Kids,0,0.97,2,0,Did Not Respond,2
+3727,F,3,2,49745.3,N,M,CH,Budget,Low Value and No Kids,5,24.44,4,1,Did Not Respond,3
+3728,M,3,2,59613.1,N,M,CC,Budget,High Income Families,35,163.41,1,6,Responded,2
+3729,F,3,2,88427,N,M,CC,Budget,High Income Families,14,43.34,3,11,Did Not Respond,1
+3730,F,3,2,98003.7,Y,M,CC,FreeLocal,High Income Families,17,83.39,2,1,Did Not Respond,2
+3731,M,1,0,89142.7,N,S,CC,Budget,High Income Families,3,5.01,4,2,Responded,4
+3732,F,1,0,74530.8,N,S,Auto,FreeLocal,Married No Kids,26,106.5,4,10,Did Not Respond,4
+3739,F,3,2,76289.2,N,M,CC,Budget,High Income Families,21,82.43,2,11,Did Not Respond,3
+3741,M,2,1,66931.9,N,M,CC,Budget,High Income Families,3,5.35,1,6,Responded,4
+3742,F,3,2,9309.57,Y,M,CC,FreeLocal,High Income Families,22,99.73,4,4,Did Not Respond,2
+3747,F,1,0,77726.4,N,S,Auto,Budget,Married No Kids,5,9.51,1,7,Did Not Respond,4
+3749,F,2,1,2800.68,N,S,CC,Budget,High Income Families,27,106.3,2,14,Responded,3
+3752,F,3,2,90271.6,N,M,CC,FreeLocal,High Income Families,22,96.43,3,7,Did Not Respond,3
+3756,F,3,2,64816.6,Y,M,CC,Budget,High Income Families,6,6.87,4,11,Did Not Respond,2
+3757,F,3,2,98217.1,N,M,CC,FreeLocal,High Income Families,9,13.24,2,15,Did Not Respond,3
+3760,F,1,0,15989.3,N,S,CC,Budget,High Income Families,6,25.49,1,2,Responded,4
+3766,M,2,1,84978.1,N,S,CH,FreeLocal,Low Value and No Kids,18,76.07,1,3,Responded,1
+3767,F,3,2,36647.9,N,M,CC,Budget,High Income Families,21,85.96,2,11,Responded,3
+3768,F,1,0,64319.2,N,S,CH,Budget,Low Value and No Kids,8,37.15,1,2,Responded,3
+3769,F,2,1,73338,N,S,Auto,Budget,Married No Kids,6,9.01,2,10,Responded,3
+3770,F,1,0,433.74,N,S,CC,FreeLocal,High Income Families,9,40.91,3,2,Responded,4
+3771,F,3,2,16962.2,N,M,CC,Budget,High Income Families,6,8.96,1,9,Did Not Respond,3
+3773,M,3,2,10708.3,N,M,CH,Budget,Low Value and No Kids,29,117.26,1,10,Did Not Respond,2
+3776,F,1,0,2031.61,N,M,CC,Budget,High Income Families,22,87.4,2,11,Responded,1
+3779,F,3,2,16938.5,N,S,CH,FreeLocal,Low Value and No Kids,4,8.76,2,7,Did Not Respond,3
+3782,F,1,0,55221,N,M,CC,FreeLocal,High Income Families,3,15.2,1,0,Did Not Respond,3
+3783,F,2,1,8073.11,N,M,Auto,FreeLocal,Married No Kids,18,60.35,1,14,Did Not Respond,3
+3784,M,2,1,95448.6,Y,M,CH,Budget,Low Value and No Kids,6,5.21,4,12,Did Not Respond,4
+3785,M,2,1,24141.5,Y,S,CC,FreeLocal,High Income Families,25,97.05,4,14,Responded,1
+3786,M,3,2,63152.6,Y,S,CC,Budget,High Income Families,14,40.07,3,15,Did Not Respond,4
+3788,M,3,2,72084.7,N,S,CC,Budget,High Income Families,8,9.02,2,15,Did Not Respond,4
+3789,F,1,0,42760.5,N,S,CC,Budget,High Income Families,11,40.23,1,7,Did Not Respond,3
+3790,F,2,1,49072,N,S,Auto,Budget,Married No Kids,7,10.74,1,12,Did Not Respond,4
+3791,F,1,0,27371.8,Y,M,CC,FreeLocal,High Income Families,29,126.55,4,8,Did Not Respond,4
+3794,M,1,0,71472.9,N,M,CH,Budget,Low Value and No Kids,26,114.2,3,8,Responded,3
+3795,M,1,0,95405.7,N,M,CC,Budget,High Income Families,3,6.21,1,4,Responded,3
+3796,M,1,0,95786.8,Y,S,CC,Budget,High Income Families,22,87.46,4,11,Did Not Respond,4
+3798,M,1,0,90321.6,N,S,Auto,FreeLocal,Married No Kids,2,11.52,2,0,Did Not Respond,2
+3799,M,1,0,90478.6,N,D,CC,FreeLocal,High Income Families,31,136.47,1,9,Responded,4
+3800,F,3,2,56187,N,M,CH,Budget,Low Value and No Kids,4,13.74,2,4,Did Not Respond,3
+3801,M,2,1,28313.1,N,M,CC,Budget,High Income Families,3,6.74,2,3,Did Not Respond,1
+3803,M,3,2,29616,N,M,CH,FreeLocal,Low Value and No Kids,15,45.5,2,15,Did Not Respond,3
+3805,M,1,0,19732.8,N,M,CC,FreeLocal,High Income Families,9,22.44,1,12,Did Not Respond,3
+3806,M,2,1,41690.5,Y,S,CC,FreeLocal,High Income Families,6,28.95,2,1,Did Not Respond,1
+3808,M,3,2,96.33,N,S,CC,Budget,High Income Families,12,32.88,1,13,Did Not Respond,4
+3811,F,3,2,52004.8,N,M,CH,Budget,Low Value and No Kids,6,23.11,3,3,Did Not Respond,1
+3821,F,1,0,78851.3,N,S,CC,FreeLocal,High Income Families,6,28.66,4,0,Responded,3
+3822,F,2,1,17540.7,Y,S,Auto,Budget,Married No Kids,7,13.45,1,11,Responded,4
+3823,F,1,0,83891.9,Y,M,CH,Budget,Low Value and No Kids,15,45.47,4,14,Responded,4
+3824,F,3,2,28220.8,N,M,CC,FreeLocal,High Income Families,8,12.46,4,13,Responded,3
+3825,F,1,0,28589.1,N,S,CC,FreeLocal,High Income Families,20,87.09,3,7,Responded,1
