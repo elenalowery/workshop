@@ -1,7 +1,7 @@
 # Paste the entire string into the test form
 
-Scikit-learn customer churn model
-{"input_data": [{"fields": ["Gender", "Status", "Children", "EstIncome", "CarOwner", "Age", "AvgMonthlySpend", "CustomerSupportCalls", "Paymethod", "MembershipPlan"], "values": [["M","S",2.0,55000,"Y",25,10,1,"CC",1], ["F","M",2.0,75000,"Y",25,10,1,"CC",1]]}]}
+Scikit-learn customer churn model (2 records)
+{"input_data": [{"fields": ["Gender", "Status", "Children", "EstIncome", "CarOwner", "Age", "AvgMonthlySpend", "CustomerSupportCalls", "Paymethod", "MembershipPlan"], "values": [["F","M",2.0,105000,"Y",45,10,1,"CC",1], ["M","S",2.0,45000,"Y",25,10,1,"CC",1]]}]}
 
 Mortgage default:
 
