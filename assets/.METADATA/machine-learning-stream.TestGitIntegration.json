@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "name": "Test_Git_Integration",
+    "description": "",
+    "asset_type": "machine-learning-stream",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2023-05-01T16:31:17Z",
+    "created": 1682958677935,
+    "asset_id": "machine-learning-stream.TestGitIntegration",
+    "asset_attributes": [
+      "machine-learning-stream",
+      "machine-learning-canvas-flow"
+    ]
+  },
+  "entity": {
+    "machine-learning-stream": {
+      "properties": {
+        "runtime": "spss-modeler",
+        "lock": {}
+      },
+      "flow_type": "spss"
+    },
+    "machine-learning-canvas-flow": {
+      "properties": {}
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "machine-learning-canvas-flow",
+      "object_key_is_read_only": false,
+      "object_key": "machine-learning-stream/machine-learning-stream.TestGitIntegration.str",
+      "user_data": {},
+      "created_at": "2023-05-01T16:31:42Z",
+      "id": "b10425fb-d02e-44aa-b282-c59acb9953d2",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false,
+      "size": "4243"
+    }
+  ]
+}
